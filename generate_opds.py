@@ -6,6 +6,7 @@ from datetime import datetime
 DATA = "data"
 COVERS = "covers"
 OUTPUT = "opds.xml"
+ICON_URL = "https://cdn.nodeimage.com/i/Sxmax3OdSILx9MUEYWnJr3OXVctgnf6C.webp"
 BASE_URL = "https://book.hellohk.me"
 
 ATOM = "http://www.w3.org/2005/Atom"
@@ -159,10 +160,10 @@ def build_opds():
     ET.SubElement(a, "name").text = "iimono图书馆"
     ET.SubElement(feed, "link", {
         "rel": "http://opds-spec.org/icon",
-        "href": f"{BASE_URL}/icon.png", "type": "image/png"})
+        "href": ICON_URL, "type": "image/webp"})
     ET.SubElement(feed, "link", {
         "rel": "icon",
-        "href": f"{BASE_URL}/icon.png", "type": "image/png"})
+        "href": ICON_URL, "type": "image/webp"})
 
     for b in books:
         e = ET.SubElement(feed, "entry")
