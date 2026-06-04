@@ -125,8 +125,15 @@ def build_opds():
     ET.SubElement(feed, "id").text = f"{BASE_URL}/opds.xml"
     ET.SubElement(feed, "title").text = "iimono图书馆"
     ET.SubElement(feed, "updated").text = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-    a = ET.SubElement(feed, "author")
-    ET.SubElement(a, "name").text = "iimono图书馆"
+    author = ET.SubElement(feed, "author")
+    ET.SubElement(author, "name").text = "iimono图书馆"
+
+    # 图标
+    ET.SubElement(feed, "link", {
+        "rel": "http://opds-spec.org/icon",
+        "href": f"{BASE_URL}/icon.png",
+        "type": "image/png",
+    })
 
     for b in books:
         entry = ET.SubElement(feed, "entry")
