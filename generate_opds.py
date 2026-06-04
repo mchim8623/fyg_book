@@ -160,6 +160,9 @@ def build_opds():
     ET.SubElement(feed, "link", {
         "rel": "http://opds-spec.org/icon",
         "href": f"{BASE_URL}/icon.png", "type": "image/png"})
+    ET.SubElement(feed, "link", {
+        "rel": "icon",
+        "href": f"{BASE_URL}/icon.png", "type": "image/png"})
 
     for b in books:
         e = ET.SubElement(feed, "entry")
