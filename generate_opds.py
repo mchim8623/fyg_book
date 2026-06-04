@@ -178,7 +178,8 @@ def build_opds():
         if b['cover']:
             ET.SubElement(e, "link", {"rel": "http://opds-spec.org/image", "href": f"{BASE_URL}/{COVERS}/{b['cover']}", "type": "image/jpeg"})
             ET.SubElement(e, "link", {"rel": "http://opds-spec.org/image/thumbnail", "href": f"{BASE_URL}/{COVERS}/{b['cover']}", "type": "image/jpeg"})
-        mime = "application/pdf" if b['ext'] == '.pdf' else "application/epub+zip"
+        mime_map = {'.pdf': 'application/pdf', '.epub': 'application/epub+zip', '.txt': 'text/plain'}
+        mime = mime_map.get(b['ext'], 'application/octet-stream')
         ET.SubElement(e, "link", {"rel": "http://opds-spec.org/acquisition", "href": f"{BASE_URL}/data/{b['file']}", "type": mime})
         ET.SubElement(e, "dcterms:extent").text = str(b['size'])
 

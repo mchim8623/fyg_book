@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>https://book.hellohk.me/opds.xml</id>
   <title>iimono图书馆</title>
-  <updated>2026-06-04T07:52:59Z</updated>
+  <updated>2026-06-04T08:09:23Z</updated>
   <author>
     <name>iimono图书馆</name>
   </author>
@@ -118,6 +118,203 @@
     <dcterms:extent>89741</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:15fe0d7c</id>
+    <title>doc_057703fe4013_大奉打更人</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_057703fe4013_大奉打更人.txt" type="text/plain" />
+    <dcterms:extent>12317704</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:93fb6ef0</id>
+    <title>doc_0f896c4aa4e6_偷香高手加料</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_0f896c4aa4e6_偷香高手加料.txt" type="text/plain" />
+    <dcterms:extent>20169343</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:6d226726</id>
+    <title>doc_10d570e34d0a_龙门无间道（全本）</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_10d570e34d0a_龙门无间道（全本）.txt" type="text/plain" />
+    <dcterms:extent>10039072</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:c740167d</id>
+    <title>doc_13af463de776_我有一帮亲戚想当火影</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_13af463de776_我有一帮亲戚想当火影.txt" type="text/plain" />
+    <dcterms:extent>6698363</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:f702d834</id>
+    <title>doc_1c0b4866b8f5_高冷姐姐和鬼畜的我</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_1c0b4866b8f5_高冷姐姐和鬼畜的我.txt" type="text/plain" />
+    <dcterms:extent>6344169</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:78688806</id>
+    <title>doc_1e14cc96a3a9_想娶女帝不正常吗？ 作者：爱开小差</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_1e14cc96a3a9_想娶女帝不正常吗？ 作者：爱开小差.txt" type="text/plain" />
+    <dcterms:extent>7279461</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:affcb4b3</id>
+    <title>doc_2322813051e0_凤傲天小说里的黄毛反派也想幸福</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_2322813051e0_凤傲天小说里的黄毛反派也想幸福.txt" type="text/plain" />
+    <dcterms:extent>3142237</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:bdcee622</id>
+    <title>doc_32a480d2e071_女帝座下第一走狗 作者：十万菜团</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_32a480d2e071_女帝座下第一走狗 作者：十万菜团.txt" type="text/plain" />
+    <dcterms:extent>8125038</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:4c1279c2</id>
+    <title>doc_32bf8ee7deb6_镇守府求生指北 作者：海底熔岩</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_32bf8ee7deb6_镇守府求生指北 作者：海底熔岩.txt" type="text/plain" />
+    <dcterms:extent>6831791</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:a220d1bc</id>
+    <title>doc_398b2edc3aff_熟练度刷满，肝成人间剑仙</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_398b2edc3aff_熟练度刷满，肝成人间剑仙.txt" type="text/plain" />
+    <dcterms:extent>6339658</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:2a8ec0b5</id>
+    <title>doc_449deb07768a_娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_449deb07768a_娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉.txt" type="text/plain" />
+    <dcterms:extent>6388600</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:dfd2bd82</id>
+    <title>doc_4be399786a79_我在日本当轻小说大师全本番外异界补完</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_4be399786a79_我在日本当轻小说大师全本番外异界补完.txt" type="text/plain" />
+    <dcterms:extent>8032237</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:8bbfc2c2</id>
+    <title>doc_5fb98c8fda04_谁在造谣我对她们的孝心变质了</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_5fb98c8fda04_谁在造谣我对她们的孝心变质了.txt" type="text/plain" />
+    <dcterms:extent>6718496</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:764e5040</id>
+    <title>doc_5fd3e378a7ce_不平静的日常</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_5fd3e378a7ce_不平静的日常.txt" type="text/plain" />
+    <dcterms:extent>10949486</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:704bc8c2</id>
+    <title>doc_618c0355006f_系统很抽象，还好我也是</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_618c0355006f_系统很抽象，还好我也是.txt" type="text/plain" />
+    <dcterms:extent>7443531</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:9a33e567</id>
+    <title>doc_62fd6dc16d34_下次还填非常简单</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_62fd6dc16d34_下次还填非常简单.txt" type="text/plain" />
+    <dcterms:extent>10313493</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:b98419b1</id>
+    <title>doc_9ba074e3baab_诡秘之主</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_9ba074e3baab_诡秘之主.txt" type="text/plain" />
+    <dcterms:extent>13770173</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:935cff30</id>
+    <title>doc_9f334ae9b3a4_综漫：加载词条，兄控妹妹太多了</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_9f334ae9b3a4_综漫：加载词条，兄控妹妹太多了.txt" type="text/plain" />
+    <dcterms:extent>3888951</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:36efcf3c</id>
+    <title>doc_b65e99fbe29d_人在泰拉，治理奇葩小国</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_b65e99fbe29d_人在泰拉，治理奇葩小国.txt" type="text/plain" />
+    <dcterms:extent>14290036</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:2ee4a685</id>
+    <title>doc_c1ed0ac5d640_马恩的日常</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_c1ed0ac5d640_马恩的日常.txt" type="text/plain" />
+    <dcterms:extent>16241091</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:59715a80</id>
+    <title>doc_cb3a420f8341_神秘复苏</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_cb3a420f8341_神秘复苏.txt" type="text/plain" />
+    <dcterms:extent>11602098</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:aa16b835</id>
+    <title>doc_d4cea7f4bd22_东方仙人录</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_d4cea7f4bd22_东方仙人录.txt" type="text/plain" />
+    <dcterms:extent>5228742</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:86571d59</id>
+    <title>doc_d6fa315883ea_肝出个大器晚成！</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_d6fa315883ea_肝出个大器晚成！.txt" type="text/plain" />
+    <dcterms:extent>6994112</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:c7f7c972</id>
+    <title>doc_ead5f8cd297b_我的二次元不可能这么日常完结</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_ead5f8cd297b_我的二次元不可能这么日常完结.txt" type="text/plain" />
+    <dcterms:extent>4070420</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:40e8fd67</id>
+    <title>doc_fc73c6a661e0_修罗场玩家</title>
+    <updated>2026-06-04T08:09:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/doc_fc73c6a661e0_修罗场玩家.txt" type="text/plain" />
+    <dcterms:extent>17978390</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:69da6620</id>
+    <title>下次还填非常简单</title>
+    <updated>2026-06-04T08:08:44Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>下次还填非常简单 下次还填非常简单 下次还填非常简单 作者：苹果味咖啡 第一章 暴君之死 帝国历1314年。 咆哮的火焰吞噬了古老的建筑，历史悠久的帝国首都罗马被一片战火笼罩。 在战争之前，不论这座城市有多少的文化结晶、历史遗迹都是徒劳的，它必将被践踏被摧毁，仿佛它们也是帝国的象征般，被愤怒的联盟军队们拔除。 一座座雕塑被推翻，不论那是军事将领，还是开国功勋，亦或者是贵族雕塑，吟游诗人，传奇导师……如此彻底的清算在古往今来的历史上少之又少。 这显然可以证明，这场战争本身并非是正常的政权交替，而是一次由下而上的阶级革命。 曾经高高在上十几个世纪的贵族阶级们已经丧失了最后反抗的力量。 恐惧与血与火...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/下次还填非常简单.epub" type="application/epub+zip" />
+    <dcterms:extent>4410954</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:d6e23d06</id>
+    <title>不平静的日常</title>
+    <updated>2026-06-04T08:08:43Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>不平静的日常 不平静的日常 第一章 侍奉部？援助部！ “所以，我想要成立侍奉部。” 办公室里，平冢静夹着没有点燃的香烟过手瘾，目光有些古怪。 姿容秀丽，体态端正的少女在她身前提出诉求，学生制服的衣角都干干净净，带着一丝不苟的纯洁，格子裙轻贴着大腿，边缘溢出青春的气息，一双长筒袜攀附修饰着笔直双腿，直到没入小皮鞋里。 柔顺的过肩黑色长发显得颇为知性，两侧鬓发绑有红色蝴蝶结丝带，平添几分可爱，明亮的黑眸带着严肃认真，笔直看着坐在椅子上的老师，没有丝毫闪烁和躲避，既不顾左右而言他，也不躲闪敷衍。 “简单来说……” 夹着女士香烟的手靠近头侧，大拇指蹭了蹭额角，平冢静再度确认道：“你想要建立一个以帮助他...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/不平静的日常.epub" type="application/epub+zip" />
+    <dcterms:extent>4459184</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:fa5d0f92</id>
     <title>不读书，还想对抗崩坏？</title>
     <updated>2026-03-21T12:48:38Z</updated>
@@ -129,6 +326,17 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/fa5d0f92.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/不读书还想对抗崩坏 2024-02-01.epub" type="application/epub+zip" />
     <dcterms:extent>664977</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:3edb82ab</id>
+    <title>人在泰拉，治理奇葩小国</title>
+    <updated>2026-06-04T08:08:47Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>人在泰拉，治理奇葩小国 人在泰拉，治理奇葩小国 第一章 人在谢拉格，刚成首相 “总而言之，我亲爱的弟弟，你现在就是谢拉格全民议会的第一任议长了。” 面前身披黑色防风大氅的高大男人如此宣告道，紧接着便是一阵稀稀拉拉的鼓掌声，布朗陶家族与佩尔罗契家族的领头人心不在焉的移动着自己的双手，确保在合上的时候能发出尴尬而不失礼貌的声响。 与之相对的，是坐在三角席位的另一边的小妹恩希亚·希瓦艾什，乐观而充满活力的小妹兴高采烈的冲着恩斯特挤眉弄眼，显然没有意识到自己敬仰的大哥刚刚把自己的二哥推上了一个多么地狱的位置。 恩斯特·希瓦艾什抿了抿嘴，将自己的视线最后投向了端坐在神座之上，代表着“耶拉冈德”意志的圣女...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人在泰拉，治理奇葩小国.epub" type="application/epub+zip" />
+    <dcterms:extent>5836375</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b18d9fa0</id>
@@ -180,6 +388,17 @@
     <dcterms:extent>615124</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:d2b302d9</id>
+    <title>偷香高手加料</title>
+    <updated>2026-06-04T08:08:36Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>偷香高手加料 偷香高手加料 更多小说在微信公众号：温华爱读书 偷香高手（夫人们的香裙） 作者：六如和尚 本书是真正未删版本，精准校对(放屁)，另外插入福利番外，里番无缝衔接，算是夫人们的香裙真正的福利版吧 无删节校对版本，无错。所有已知番外都已按内容插入正文 注：番外 (535,542焦宛儿) , (763完颜萍) , (794裴曼皇后) , （798，834歌壁），（849，941徒单静），(953黛绮丝)，(1356陈圆圆) 在整合了里番番外的版本基础上加料，已经有差不多二十篇加料章节。加料章节的标题后面有加料两个字，可以通过搜索关键词或者章节目录查看到加料章节 修改者的话：站里标题党太多...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/偷香高手加料.epub" type="application/epub+zip" />
+    <dcterms:extent>8368687</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:f5d0b767</id>
     <title>关于我带着逆天金手指闯荡宝可梦世界这件事还真不是瞎说的</title>
     <updated>2026-03-21T12:46:53Z</updated>
@@ -191,6 +410,17 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/f5d0b767.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/关于我带着逆天金手指闯荡宝可梦世界这件事还真不是瞎说的_21598487.epub" type="application/epub+zip" />
     <dcterms:extent>232335</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:546cabdc</id>
+    <title>凤傲天小说里的黄毛反派也想幸福</title>
+    <updated>2026-06-04T08:08:39Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>凤傲天小说里的黄毛反派也想幸福 凤傲天小说里的黄毛反派也想幸福 ﻿ 穿越成某凤傲天小说的前期黄毛反派，沐恩表示自己只想好好活下去。 但，故事发展似乎有点不对劲？ 给公主下药裤子都脱了可为何主角迟迟没有赶到？ 主角的青梅竹马高洁圣女为何频频向我暗送秋波？ 就连乖巧听话的贴身女仆最近看我的眼神也逐渐危险起来！ 主角呢？主角救一下啊！！ “呵呵，抢了我的女人，你可就要负责到底哦~” 凤傲天主角手握柴刀，和善的微笑道。 [VOLUME] 第一卷 [WEB] 1、开局就迎来破灭是不是搞错了什么 “我这是……穿越了？” 沐恩有些呆滞的看着镜中的自己。 金色的短发细碎铺展，宛若初生的朝阳，俊俏的面容线条完美...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/凤傲天小说里的黄毛反派也想幸福.epub" type="application/epub+zip" />
+    <dcterms:extent>1316402</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:95874381</id>
@@ -213,6 +443,39 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/95874381.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/刘慈欣_三体典藏版_重庆出版社_Chinese_2019.epub" type="application/epub+zip" />
     <dcterms:extent>13568923</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:7db3c728</id>
+    <title>大奉打更人</title>
+    <updated>2026-06-04T08:08:35Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>大奉打更人 大奉打更人 第001章 牢狱之灾 大奉京兆府，监牢。 许七安幽幽醒来，嗅到了空气中潮湿的腐臭味，令人轻微的不适，胃酸翻涌。 这扑面而来的臭味是怎么回事，家里的二哈又跑床上拉屎来了……根据熏人程度，怕不是在我头顶拉的…… 许七安家里养了一条狗，品种哈士奇，俗称二哈。 北漂了十年，孤孤单单的，这人啊，寂寞久了，难免会想养条狗里慰藉和消遣……不是肉体上。 睁开眼，看了下周遭，许七安懵了一下。 石块垒砌的墙壁，三个碗口大的方块窗，他躺在冰凉的破烂草席上，阳光透过方块窗照射在他胸口，光束中尘糜浮动。 我在哪？ 许七安在怀疑人生般的迷茫中沉思片刻，然后他真的怀疑人生了。 我穿越了…… 狂潮般的...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/大奉打更人.epub" type="application/epub+zip" />
+    <dcterms:extent>5172350</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:b33723f1</id>
+    <title>女帝座下第一走狗</title>
+    <updated>2026-06-04T08:08:40Z</updated>
+    <author>
+      <name>十万菜团</name>
+    </author>
+    <summary>女帝座下第一走狗 女帝座下第一走狗 女帝座下第一走狗 十万菜团 简介： 🔗 阅文集团作品 ♥️ 488160人收藏 📖 675289人在看 💬 8.8分/4268人 📄 简介：【权谋+剧情流+单女主+腹黑男主+假反派】 吃公家饭的赵都安一生如履薄冰，穿越后却成为女帝宠幸的小白脸，仗势欺人的反派奸臣。 来不及欣喜，就因放走国贼，面临杀身之祸。 走投无路之下，本想吹枕边风，向女帝求情，却发现自己这个“面首”是假的。 更糟的是，因声名狼藉，满朝文武都要弹劾他；江湖正义之士欲铲除他而后快；武夫、佛道术士皆以他为耻。 赵都安逐渐面无表情： “既然都想让我死，我也就只好不做人了……” 洗白上岸， 从出卖同...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/女帝座下第一走狗.epub" type="application/epub+zip" />
+    <dcterms:extent>3737800</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:005a879d</id>
+    <title>娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉</title>
+    <updated>2026-06-04T08:08:41Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉 娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉 ﻿下载自搜书吧：www.soushu2023.com 备用地址：www.soushu2024.com 娱乐春秋 作者：姬叉 内容简介： 架空异界，武道百家。 现代人告诉他们，除了修行，还有很多方法可以得到你想要的东西。 要做江湖上人人追捧的少侠？嗯，这个简单，只是要看你的诚意……比如让你师妹来喝杯酒？ 子曰： 穿越莫只苦修行，人家土著没你行？ 天作棋盘星作子，知识就是金手指。 又云： 穿越一世不推土，不如回家卖红薯。 江山百色尽妖娆，何必较劲逆天高。 第一卷 天都篇 第一章 ...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/娱乐春秋三改加料番外整合版_姬叉_Z_Library_姬叉.epub" type="application/epub+zip" />
+    <dcterms:extent>2842767</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c8db8568</id>
@@ -286,6 +549,28 @@
     <dcterms:extent>11868792</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:b1bde3e4</id>
+    <title>想娶女帝不正常吗？</title>
+    <updated>2026-06-04T08:08:39Z</updated>
+    <author>
+      <name>爱开小差</name>
+    </author>
+    <summary>想娶女帝不正常吗？ 想娶女帝不正常吗？ 千'?寻":??免;:费"?小.'!说??裙!':2;!5!5:?,5?;"9"!5:.3?":"0,;"'0想娶女帝不正常吗？ 作者：爱开小差 简介： 一觉醒来穿越了，怒肝一款名为【女帝养成计划】的陆成安陷入了朝堂中的‘科举舞弊’大案，科举成绩作废，被迫落榜，无奈返乡的陆成安发现自己脑海里【女帝养成计划】依然在启动。人都穿越了，你还让我玩游戏？盛怒之下的陆成安，在回乡路上点开了游戏。突然他发现，脑海里的立绘好像自动更新了？选中立绘最好看的‘汉王’当自己的君主，陆成安开始疯狂冲刺。此时，汉王府的汉王苏瑜舟茫然 ★ 作品相关 ★ 开个无上限悬赏!!!顺便聊...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/想娶女帝不正常吗？.epub" type="application/epub+zip" />
+    <dcterms:extent>2932226</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:d88fbb8f</id>
+    <title>我在日本当轻小说大师全本番外异界补完</title>
+    <updated>2026-06-04T08:08:42Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>我在日本当轻小说大师全本番外异界补完 我在日本当轻小说大师全本番外异界补完 ﻿书名：《我在日本当轻小说大师》 作者：九月墨客 封面https://novel-cdn.kuangxiangit.com/uploads/allimg/c181230/30-12-18102330-57817-100039768.jpg 【内容简介】 【非公抄文，属于动漫穿越类型】 简介：这是一个有着少女们，小说家们，老贼和催更，以及漫画家们的创作世界，然后将所有元素综合起来变成类似【物语】系列的热血故事。 ———————————————————— 提示：本书为热血加日常类型的小说，热血剧情偏多，涉及灵异方向，风格比...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我在日本当轻小说大师全本番外异界补完.epub" type="application/epub+zip" />
+    <dcterms:extent>3039304</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:760f4d85</id>
     <title>我居然重生成为机娘</title>
     <updated>2026-03-21T12:48:18Z</updated>
@@ -297,6 +582,17 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/760f4d85.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我居然重生成为机娘.epub" type="application/epub+zip" />
     <dcterms:extent>90112</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:46db72a4</id>
+    <title>我有一帮亲戚想当火影</title>
+    <updated>2026-06-04T08:08:38Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>我有一帮亲戚想当火影 我有一帮亲戚想当火影 第一卷 第一章 这届可能快了 木叶隐村的主城区沿着东边的山脉建造，以火影岩为轴心呈130度扇形铺开，分成南、北、西三个片区，忍者学校、医院与火影大楼均坐落于火影岩下，警务部则在南区的商业街，离火影岩较远，但方便和南边山区的监狱进行人犯交接。 年少时的鸣人每天早上睁眼就能直接看到火影岩上的几张大脸。 宇智波信玄家的窗户首先会看到警务部大楼，至于火影岩只能看到个轮廓。 美好的一天,从拥抱清晨第一缕阳光开始。 被阳光呼醒的宇智波信玄发自内心的喜欢阳光。 作为逮着这个世界薅……不，是连续穿越了两次的人，心态要稳，不能动不动就咋咋呼呼。 上一次穿越，见证了一路...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我有一帮亲戚想当火影.epub" type="application/epub+zip" />
+    <dcterms:extent>2655236</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:14ac255d</id>
@@ -455,6 +751,17 @@
     <dcterms:extent>256358</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:c3a4efff</id>
+    <title>熟练度刷满，肝成人间剑仙</title>
+    <updated>2026-06-04T08:08:41Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>熟练度刷满，肝成人间剑仙 熟练度刷满，肝成人间剑仙 本书由【月漪】整理，小说版权归原作者所有，文本仅供个人学习和试读，请在下载后24小时内删除，想看请去支持订阅正版小说，拒绝盗版！如不慎该资源侵犯了您的权益，请麻烦通知我们及时删除。 【月漪】提醒您：合理安排阅读时间，杜绝沉迷网络小说！更多全网小说尽在【月漪免费外群】。 【月漪免费外群1号】——176132292 【月漪免费外群2号】——202213082 【月漪免费外群3号】——213579632 【月漪免费外群4号】——297691386 【月漪免费外群5号】——107847456 【月漪中转群1号】———340722484 【月漪中转群2...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/熟练度刷满，肝成人间剑仙.epub" type="application/epub+zip" />
+    <dcterms:extent>2299956</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:fac3ec9a</id>
     <title>碧色～機娘航線～  新型艦娘的養成日誌～～～</title>
     <updated>2026-03-21T12:45:33Z</updated>
@@ -496,6 +803,17 @@
     <dcterms:extent>161462</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:e09f5fa8</id>
+    <title>系统很抽象，还好我也是</title>
+    <updated>2026-06-04T08:08:43Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>系统很抽象，还好我也是 系统很抽象，还好我也是 本书由【月漪】整理，小说版权归原作者所有，文本仅供个人学习和试读，请在下载后24小时内删除，想看请去支持订阅正版小说，拒绝盗版！如不慎该资源侵犯了您的权益，请麻烦通知我们及时删除。 【月漪】提醒您：合理安排阅读时间，杜绝沉迷网络小说！更多全网小说尽在【月漪免费外群】。 【月漪免费外群1号】——176132292 【月漪免费外群2号】——202213082 【月漪免费外群3号】——213579632 【月漪免费外群4号】——297691386 【月漪免费外群5号】——107847456 【月漪中转群1号】———340722484 【月漪中转群2号】...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/系统很抽象，还好我也是.epub" type="application/epub+zip" />
+    <dcterms:extent>2999179</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:beacff35</id>
     <title>绝区零：药师的新艾利都退休生活</title>
     <updated>2026-03-21T12:45:37Z</updated>
@@ -516,6 +834,17 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/beacff35.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/绝区零药师的新艾利都退休生活_作者快乐的雷胖子.epub" type="application/epub+zip" />
     <dcterms:extent>914270</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:0a070e43</id>
+    <title>综漫：加载词条，兄控妹妹太多了</title>
+    <updated>2026-06-04T08:08:46Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>综漫：加载词条，兄控妹妹太多了 综漫：加载词条，兄控妹妹太多了 本书由【月漪】整理，小说版权归原作者所有，文本仅供个人学习和试读，请在下载后24小时内删除，想看请去支持订阅正版小说，拒绝盗版！如不慎该资源侵犯了您的权益，请麻烦通知我们及时删除。 【月漪】提醒您：合理安排阅读时间，杜绝沉迷网络小说！更多全网小说尽在【月漪免费外群】。 【月漪免费外群1号】——176132292 【月漪免费外群2号】——202213082 【月漪免费外群3号】——213579632 【月漪免费外群4号】——297691386 【月漪免费外群5号】——107847456 【月漪中转群1号】———340722484 【...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/综漫：加载词条，兄控妹妹太多了.epub" type="application/epub+zip" />
+    <dcterms:extent>1550635</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4eb47d45</id>
@@ -555,6 +884,28 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/db22501f.png" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/被舰娘们不断强奸的指挥官的性奴生活作者绒云.epub" type="application/epub+zip" />
     <dcterms:extent>4443824</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:1021e319</id>
+    <title>诡秘之主</title>
+    <updated>2026-06-04T08:08:45Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>诡秘之主 诡秘之主 诡秘之主·已完结·446.52万字 爱潜水的乌贼 著 内容简介: 蒸汽与机械的浪潮中，谁能触及非凡？历史和黑暗的迷雾里，又是谁在耳语？我从诡秘中醒来，睁眼看见这个世界： 枪械，大炮，巨舰，飞空艇，差分机；魔药，占卜，诅咒，倒吊人，封印物……光明依旧照耀，神秘从未远离，这是一段“愚者”的传说。 * * * 声明：本书仅作个人排版参考学习之用，请勿用于商业用途。如果喜欢本书，请购买正版。任何对本书的修改、加工、传播，请自负法律后果。 目录 Content 目录 第一章 绯红 第二章 情况 第三章 梅丽莎 第四章 占卜 第五章 仪式 第六章 非凡者 第七章 代号 第八章 新的时代...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/诡秘之主.epub" type="application/epub+zip" />
+    <dcterms:extent>5623095</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:b89f4c54</id>
+    <title>谁在造谣我对她们的孝心变质了</title>
+    <updated>2026-06-04T08:08:42Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>谁在造谣我对她们的孝心变质了 谁在造谣我对她们的孝心变质了 ﻿ 第一章 因为那就是我================================ 一间酒肆茶馆。 一楼人声鼎沸，食客往来不绝，不过这个时间点，停下喝茶的人除了听上那么一小段书，还有则是偷听一下过往商贾的言谈，从那些八卦中寻一些乐子。 “你们可知道前段时间，那东城某座王府某位世子发生了什么？” 听到这个开头，不少人已经知道这行脚商准备八卦谁了，但是不能说，因为那都是王公贵族，要是被人听到了，那可是要掉脑袋的！ 一身着劲装，容貌不凡的青年把玩着手里的美玉，抿了口茶，笑道： “遮遮掩掩做什么，不就是西陵王府的楚世子吗，有什么值得可怕...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/谁在造谣我对她们的孝心变质了.epub" type="application/epub+zip" />
+    <dcterms:extent>2964148</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:2042a7e9</id>
@@ -631,6 +982,35 @@
     <dcterms:extent>425716</dcterms:extent>
   </entry>
   <entry>
+    <id>urn:sha1:8e205a31</id>
+    <title>镇守府求生指北</title>
+    <updated>2026-06-04T08:08:40Z</updated>
+    <author>
+      <name>海底熔岩</name>
+    </author>
+    <summary>镇守府求生指北 镇守府求生指北 镇守府求生指北 作者：海底熔岩 简介： 穿越到游戏世界，装备数千、资源百万……好像已经不用再努力了。每天对着手机屏幕点点点。 ……好了，现在，你大难临头了。 第一章 大危机 海水蔚蓝、明净，一望无际粼粼的微波。 沉甸甸的积云低垂，斜阳的金光长蛇般自天边落在岸边。 狭长的叶子，不知道是不是夹竹桃，据说夹竹桃有毒，细叶榕郁郁葱葱，棕榈种在沙滩上，竹丛孤植于房前屋后，或置于坡前路边、庭院绿野。 走过沙滩，也在礁石上走一下，苏夏现在站在岸边的堤坝上，扶着栏杆眺望远处。 以前一直以为海边一定很美，看过了才知道，其实也不过如此。 这里的海水是蛮漂亮的，但是太阳暴晒过后的沙滩...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/镇守府求生指北.epub" type="application/epub+zip" />
+    <dcterms:extent>2643027</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:e920cb17</id>
+    <title>马恩的日常</title>
+    <updated>2026-06-04T08:08:47Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/马恩的日常.epub" type="application/epub+zip" />
+    <dcterms:extent>697</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:9bd53d0f</id>
+    <title>高冷姐姐和鬼畜的我</title>
+    <updated>2026-06-04T08:08:38Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>高冷姐姐和鬼畜的我 高冷姐姐和鬼畜的我 ﻿点击链接加入群聊【热兵器acg交流群】（欢淫不知名网友来互相交流哦） QQ群:1032120536 https://jq.qq.com/?_wv=1027&amp;amp;k=5qV5tbrhttps://jq.qq.com/?_wv=1027&amp;amp;k=55wVaNe容简介 傲天装B请去他处， 纯爱x帽勿入此门。 我是江云横， 没有超能力，没有系统，没有穿越，也没有劳模动漫人物来帮忙。 一个被姐姐和老师和学姐和... 逼着在现实中缔造后宫的男人。 胃药和暴风雨。 甜蜜的青春 纯原创~ 第一章 网吧被抓，问题不大 “江云横！你又在这给我上网！” 当我有些错愕...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/高冷姐姐和鬼畜的我.epub" type="application/epub+zip" />
+    <dcterms:extent>2581473</dcterms:extent>
+  </entry>
+  <entry>
     <id>urn:sha1:7a2acdad</id>
     <title>黑执事</title>
     <updated>2026-03-21T12:48:10Z</updated>
@@ -653,5 +1033,16 @@
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/3c631175.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/黑执事就这样穿成了夏尔.epub" type="application/epub+zip" />
     <dcterms:extent>193896</dcterms:extent>
+  </entry>
+  <entry>
+    <id>urn:sha1:897f9049</id>
+    <title>龙门无间道（全本）</title>
+    <updated>2026-06-04T08:08:37Z</updated>
+    <author>
+      <name>未知</name>
+    </author>
+    <summary>龙门无间道（全本） 龙门无间道（全本） ﻿ 115457519全网小说，有飞卢，菠萝包，刺猬猫，次元姬等，不定时更新，群内免费帮找书 第一章：吔屎了陈非凡！ ============================== “不是我，首领！不是我啊！” 整合运动的会议室内，一个整合运动的成员正在哀嚎着。 塔露拉手中拿着一分资料，口中平淡的说道：“你在整合运动成立之初加入，为了同胞战斗了十八次，重伤三次，濒危一次，如果不是我手上的这些东西，我真不敢相信，你居然是乌萨斯帝国情报局高级资深情报员。” 这位整合运动的成员听到这句话瞬间脸色惨白，但他还在极力狡辩着：“我...我跟龙门那边的事情没有关系啊首领...</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/龙门无间道（全本）.epub" type="application/epub+zip" />
+    <dcterms:extent>3619401</dcterms:extent>
   </entry>
 </feed>
