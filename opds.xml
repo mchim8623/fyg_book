@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>https://book.hellohk.me/opds.xml</id>
   <title>iimono图书馆</title>
-  <updated>2026-06-04T07:38:52Z</updated>
+  <updated>2026-06-04T07:41:22Z</updated>
   <author>
     <name>iimono图书馆</name>
   </author>
@@ -25,13 +25,6 @@
     <title>25464188_绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比</title>
     <updated>2026-03-21T12:45:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/25464188_绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比.epub" type="application/epub+zip" />
-    <dcterms:extent>227694</dcterms:extent>
-  </entry>
-  <entry>
-    <id>urn:sha1:c6a0761f</id>
-    <title>25464188_绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比_1</title>
-    <updated>2026-03-21T12:48:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/25464188_绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比_1.epub" type="application/epub+zip" />
     <dcterms:extent>227694</dcterms:extent>
   </entry>
   <entry>
@@ -217,13 +210,6 @@
     <dcterms:extent>11863969</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:7532d032</id>
-    <title>新世纪福音战士 ANIMA 1_1</title>
-    <updated>2026-03-21T12:47:23Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/新世纪福音战士 ANIMA 1_1.epub" type="application/epub+zip" />
-    <dcterms:extent>11863969</dcterms:extent>
-  </entry>
-  <entry>
     <id>urn:sha1:098eb257</id>
     <title>新世纪福音战士ANIMA - 02</title>
     <updated>2026-03-21T12:47:27Z</updated>
@@ -266,13 +252,6 @@
     <dcterms:extent>430893</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:b367a9b7</id>
-    <title>碧色機娘航線_新型艦娘的養成日誌_21405554_1</title>
-    <updated>2026-03-21T12:45:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/碧色機娘航線_新型艦娘的養成日誌_21405554_1.epub" type="application/epub+zip" />
-    <dcterms:extent>430893</dcterms:extent>
-  </entry>
-  <entry>
     <id>urn:sha1:f8e1eea3</id>
     <title>穿越EVA的世界我竟获得了光 作者石头high</title>
     <updated>2026-03-21T12:48:01Z</updated>
@@ -284,13 +263,6 @@
     <title>穿越到崩坏三当舰长</title>
     <updated>2026-03-21T12:48:44Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/穿越到崩坏三当舰长.epub" type="application/epub+zip" />
-    <dcterms:extent>161462</dcterms:extent>
-  </entry>
-  <entry>
-    <id>urn:sha1:a0662822</id>
-    <title>穿越到崩坏三当舰长_1</title>
-    <updated>2026-03-21T12:48:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/穿越到崩坏三当舰长_1.epub" type="application/epub+zip" />
     <dcterms:extent>161462</dcterms:extent>
   </entry>
   <entry>
