@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>https://book.hellohk.me/opds.xml</id>
   <title>iimono图书馆</title>
-  <updated>2026-06-04T12:16:50Z</updated>
+  <updated>2026-06-04T12:17:36Z</updated>
   <author>
     <name>iimono图书馆</name>
   </author>
@@ -11,77 +11,77 @@
   <entry>
     <id>urn:sha1:ad32d736</id>
     <title>01四书五经合集之《大学》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-12-01T03:34:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/01四书五经合集之《大学》.txt" type="text/plain" />
     <dcterms:extent>35482</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:94e918c5</id>
     <title>02四书五经合集之《孟子》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-12-01T03:34:10Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/02四书五经合集之《孟子》.txt" type="text/plain" />
     <dcterms:extent>383648</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:df5da444</id>
     <title>03四书五经合集之《论语》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-12-01T03:34:16Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/03四书五经合集之《论语》.txt" type="text/plain" />
     <dcterms:extent>450790</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b7b9c7d7</id>
     <title>04四书五经合集之《中庸》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-09-01T06:38:06Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/04四书五经合集之《中庸》.txt" type="text/plain" />
     <dcterms:extent>56690</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:24ea3a5d</id>
     <title>05四书五经合集之《左传》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-08-31T00:22:14Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/05四书五经合集之《左传》.txt" type="text/plain" />
     <dcterms:extent>213290</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:45d4782d</id>
     <title>06四书五经合集之《礼记》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-08-31T00:22:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/06四书五经合集之《礼记》.txt" type="text/plain" />
     <dcterms:extent>118198</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8174a01c</id>
     <title>07四书五经合集之《周易》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-08-31T00:22:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/07四书五经合集之《周易》.txt" type="text/plain" />
     <dcterms:extent>156886</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3eda2b5f</id>
     <title>08四书五经合集之《尚书》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-08-31T00:22:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/08四书五经合集之《尚书》.txt" type="text/plain" />
     <dcterms:extent>90298</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:0ce4c611</id>
     <title>09四书五经合集之《诗经》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-12-01T03:34:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/09四书五经合集之《诗经》.txt" type="text/plain" />
     <dcterms:extent>278972</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8b5d2009</id>
     <title>1965肖洛霍夫：静静的顿河</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2016-07-29T19:01:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/1965肖洛霍夫：静静的顿河.txt" type="text/plain" />
     <dcterms:extent>1837885</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:00f801b6</id>
     <title>EVA新世纪之旅 2023-07-14</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:47:59Z</updated>
     <author>
       <name>As 栗子言</name>
     </author>
@@ -94,7 +94,7 @@
   <entry>
     <id>urn:sha1:7dffa932</id>
     <title>EVA血之序 - 报晓知更鸟 - 425CHS</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:48:08Z</updated>
     <author>
       <name>EVA血之序 - 报晓知更鸟 - 425CHS</name>
     </author>
@@ -105,7 +105,7 @@
   <entry>
     <id>urn:sha1:ab69ab8b</id>
     <title>EVA血之序 - 文厉 - 427CHS</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:48:05Z</updated>
     <author>
       <name>EVA血之序 - 文厉 - 427CHS</name>
     </author>
@@ -116,7 +116,7 @@
   <entry>
     <id>urn:sha1:407adf53</id>
     <title>QQ飞车之车王再现 - 梦原点01 - 95CHS</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:48:25Z</updated>
     <author>
       <name>QQ飞车之车王再现 - 梦原点01 - 95CHS</name>
     </author>
@@ -127,7 +127,7 @@
   <entry>
     <id>urn:sha1:8978d15e</id>
     <title>QQ飞车之边境战争 - 哲懿zy - 9CHS</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:48:22Z</updated>
     <author>
       <name>QQ飞车之边境战争 - 哲懿zy - 9CHS</name>
     </author>
@@ -138,7 +138,7 @@
   <entry>
     <id>urn:sha1:1e548653</id>
     <title>QQ飞车手游之世界车神</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-03-21T12:48:23Z</updated>
     <author>
       <name>小十四95</name>
     </author>
@@ -151,35 +151,35 @@
   <entry>
     <id>urn:sha1:35a7219f</id>
     <title>《三国演义》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2009-10-11T12:53:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《三国演义》.txt" type="text/plain" />
     <dcterms:extent>1222140</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:98001c2c</id>
     <title>《世间的盐》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2014-08-13T09:20:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《世间的盐》.txt" type="text/plain" />
     <dcterms:extent>104118</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:e346fe08</id>
     <title>《你若安好便是晴天：林徽因传(全本）》作者：白落梅</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2014-08-13T09:20:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《你若安好便是晴天：林徽因传(全本）》作者：白落梅.txt" type="text/plain" />
     <dcterms:extent>203702</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:e05bd398</id>
     <title>《当我谈跑步时我谈些什么》村上春树</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2014-08-13T09:20:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《当我谈跑步时我谈些什么》村上春树.txt" type="text/plain" />
     <dcterms:extent>156368</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:375f6967</id>
     <title>《我在废土世界扫垃圾》1-3卷完结 (有花在野)</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T11:30:27Z</updated>
     <author>
       <name>有花在野</name>
     </author>
@@ -192,7 +192,7 @@
   <entry>
     <id>urn:sha1:47b9c0f1</id>
     <title>《我师兄实在太稳健了》 (言归正传)</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T11:30:27Z</updated>
     <author>
       <name>QQ:511595420</name>
     </author>
@@ -205,126 +205,126 @@
   <entry>
     <id>urn:sha1:f10f31be</id>
     <title>《数字乌托邦世界的英雄》第一章_网络传奇人物R大系列书籍</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:46:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《数字乌托邦世界的英雄》第一章_网络传奇人物R大系列书籍.pdf" type="application/pdf" />
     <dcterms:extent>764993</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:5107f00f</id>
     <title>《数字城堡》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2009-09-10T09:59:40Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《数字城堡》.txt" type="text/plain" />
     <dcterms:extent>283620</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:69ea20d9</id>
     <title>《水浒传》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2009-10-11T12:52:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《水浒传》.txt" type="text/plain" />
     <dcterms:extent>1843678</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:34606e37</id>
     <title>《红楼梦》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2009-10-11T12:52:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《红楼梦》.txt" type="text/plain" />
     <dcterms:extent>1726570</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:bfbfd98a</id>
     <title>《网络传奇人物.R大》.下册</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:50:48Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《网络传奇人物.R大》.下册.pdf" type="application/pdf" />
     <dcterms:extent>247750</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8f669073</id>
     <title>《网络传奇人物.R大》.中册</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:50:48Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《网络传奇人物.R大》.中册.pdf" type="application/pdf" />
     <dcterms:extent>309183</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:65bc5df4</id>
     <title>《网络传奇人物.R大》.全册.完整收藏版</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:46:55Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《网络传奇人物.R大》.全册.完整收藏版.pdf" type="application/pdf" />
     <dcterms:extent>823309</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:04fc9eaa</id>
     <title>《网络传奇人物R大》.上册</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:50:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《网络传奇人物R大》.上册.pdf" type="application/pdf" />
     <dcterms:extent>664695</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a394e356</id>
     <title>《西游记》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2009-10-11T13:30:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《西游记》.txt" type="text/plain" />
     <dcterms:extent>1504234</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:93671722</id>
     <title>《论自由意志》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2026-06-04T10:46:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《论自由意志》.pdf" type="application/pdf" />
     <dcterms:extent>593156</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7ef972e2</id>
     <title>《论语疏证：解读《论语》的权威力作》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2008-05-20T12:33:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《论语疏证：解读《论语》的权威力作》.txt" type="text/plain" />
     <dcterms:extent>241991</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:b970e8f5</id>
-    <title>《资治通鉴.第一卷》全译_雨枫轩Rain8.com</title>
-    <updated>2026-06-04T12:16:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第一卷》全译_雨枫轩Rain8.com.txt" type="text/plain" />
+    <id>urn:sha1:4659b34f</id>
+    <title>《资治通鉴.第一卷》全译</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第一卷》全译.txt" type="text/plain" />
     <dcterms:extent>3034208</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:397ff5dd</id>
-    <title>《资治通鉴.第三卷》全译_雨枫轩Rain8.com</title>
-    <updated>2026-06-04T12:16:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第三卷》全译_雨枫轩Rain8.com.txt" type="text/plain" />
+    <id>urn:sha1:5e7d326d</id>
+    <title>《资治通鉴.第三卷》全译</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第三卷》全译.txt" type="text/plain" />
     <dcterms:extent>3435582</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:1aca9ff4</id>
-    <title>《资治通鉴.第二卷》全译_雨枫轩Rain8.com</title>
-    <updated>2026-06-04T12:16:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第二卷》全译_雨枫轩Rain8.com.txt" type="text/plain" />
+    <id>urn:sha1:4a38b4d6</id>
+    <title>《资治通鉴.第二卷》全译</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第二卷》全译.txt" type="text/plain" />
     <dcterms:extent>3757798</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:d08717f0</id>
-    <title>《资治通鉴.第五卷》全译_雨枫轩Rain8.com</title>
-    <updated>2026-06-04T12:16:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第五卷》全译_雨枫轩Rain8.com.txt" type="text/plain" />
+    <id>urn:sha1:17cdfbc8</id>
+    <title>《资治通鉴.第五卷》全译</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第五卷》全译.txt" type="text/plain" />
     <dcterms:extent>3122339</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:148c5c9d</id>
-    <title>《资治通鉴.第四卷》全译_雨枫轩Rain8.com</title>
-    <updated>2026-06-04T12:16:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第四卷》全译_雨枫轩Rain8.com.txt" type="text/plain" />
+    <id>urn:sha1:61a0c17f</id>
+    <title>《资治通鉴.第四卷》全译</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《资治通鉴.第四卷》全译.txt" type="text/plain" />
     <dcterms:extent>3379255</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:9be96e4a</id>
     <title>《追风筝的人》</title>
-    <updated>2026-06-04T12:16:43Z</updated>
+    <updated>2007-07-19T07:08:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《追风筝的人》.txt" type="text/plain" />
     <dcterms:extent>197578</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d2cc9bcb</id>
     <title>《间客》（精校版全本）作者：猫腻 (猫腻)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:27Z</updated>
     <summary>﻿ Cover html,body {height:100%; margin:0; padding:0;} .wedge {float:left; height:50%; margin-bottom: -360px;} .container {clear:both; height:0em; position: relative;} table, tr, th {height: 720px; width:100%; text-align:center;}</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/d2cc9bcb.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/d2cc9bcb.jpg" type="image/jpeg" />
@@ -334,14 +334,14 @@
   <entry>
     <id>urn:sha1:f2e74681</id>
     <title>《阅微草堂笔记》作者：清·纪昀</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2009-07-20T05:22:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/《阅微草堂笔记》作者：清·纪昀.txt" type="text/plain" />
     <dcterms:extent>749321</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:14121995</id>
     <title>三尸语（洛小阳重磅之作，豆瓣评分9.3，新媒体最受欢迎的惊悚灵异小说！以真实的案例为原型，将其</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:27Z</updated>
     <author>
       <name>洛小阳</name>
     </author>
@@ -354,21 +354,21 @@
   <entry>
     <id>urn:sha1:b8a0d562</id>
     <title>下次还填非常简单</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/下次还填非常简单.txt" type="text/plain" />
     <dcterms:extent>10313493</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:1fd7a11c</id>
     <title>不平静的日常</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/不平静的日常.txt" type="text/plain" />
     <dcterms:extent>10949486</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:fa5d0f92</id>
     <title>不读书还想对抗崩坏 2024-02-01</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-03-21T12:48:38Z</updated>
     <author>
       <name>天上降下位茶姊姊</name>
     </author>
@@ -381,28 +381,28 @@
   <entry>
     <id>urn:sha1:53cefb11</id>
     <title>世间的盐-高军</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:36:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/世间的盐-高军.txt" type="text/plain" />
     <dcterms:extent>104083</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b88f237a</id>
     <title>东方仙人录</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/东方仙人录.txt" type="text/plain" />
     <dcterms:extent>5228742</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4d9cbab1</id>
     <title>中华史纲.李定一</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T10:50:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/中华史纲.李定一.pdf" type="application/pdf" />
     <dcterms:extent>8660505</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3a09c603</id>
     <title>中国文史哲大辞典（套装共6册）</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T08:24:51Z</updated>
     <author>
       <name>郑天挺</name>
     </author>
@@ -415,7 +415,7 @@
   <entry>
     <id>urn:sha1:2c21ee45</id>
     <title>亏成首富从游戏开始 (青衫取醉)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <author>
       <name>青衫取醉</name>
     </author>
@@ -428,21 +428,21 @@
   <entry>
     <id>urn:sha1:65058e7b</id>
     <title>人在泰拉，治理奇葩小国</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人在泰拉，治理奇葩小国.txt" type="text/plain" />
     <dcterms:extent>14290036</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:0c3aefc3</id>
     <title>人类的群星闪耀时</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2013-05-31T14:12:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人类的群星闪耀时.txt" type="text/plain" />
     <dcterms:extent>230802</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:82ba8249</id>
     <title>人类补完计划_新世纪福音战士EVA_原</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-03-21T12:47:56Z</updated>
     <author>
       <name>考德维纳•史密斯</name>
     </author>
@@ -455,35 +455,35 @@
   <entry>
     <id>urn:sha1:968afa71</id>
     <title>人间失格 第一卷 (太宰治；伊藤润二)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人间失格 第一卷 (太宰治；伊藤润二).mobi" type="application/octet-stream" />
     <dcterms:extent>55483632</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7782272e</id>
     <title>人间失格 第三卷 (太宰治；伊藤润二)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人间失格 第三卷 (太宰治；伊藤润二).mobi" type="application/octet-stream" />
     <dcterms:extent>53151220</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b0fab2f1</id>
     <title>人间失格 第二卷 (太宰治；伊藤润二)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人间失格 第二卷 (太宰治；伊藤润二).mobi" type="application/octet-stream" />
     <dcterms:extent>52232984</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8ec13765</id>
     <title>从你的全世界路过_张嘉佳著</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T10:46:56Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/从你的全世界路过_张嘉佳著.pdf" type="application/pdf" />
     <dcterms:extent>2141718</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7b0ce2ee</id>
     <title>从姑获鸟开始 (活儿该)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <summary>制作说明 从姑获鸟开始 活儿该 制作：如若北音 参考：鬼鬼，云轩阁主，笙歌夜夜等人 制作说明：文本来自本论坛【 阳方十月 】所校对。 制作声明：本书仅作个人排版参考学习之用，请勿用于商业用途。 注：为获得最佳阅读效果，请在多看设置中将排版设为“原版”（多看2.x版本）或“无”（多看3.x版本以上），背景为预设背景（不要自定义背景和字体颜色，以免整体配色出问题）。字体设置为“默认”（使用书中指定字体）</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/7b0ce2ee.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/7b0ce2ee.jpg" type="image/jpeg" />
@@ -493,7 +493,7 @@
   <entry>
     <id>urn:sha1:632201c2</id>
     <title>从机娘维修师开始的未来世界生活</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-03-21T12:48:29Z</updated>
     <author>
       <name>叶诗染</name>
     </author>
@@ -506,7 +506,7 @@
   <entry>
     <id>urn:sha1:ae5c5a45</id>
     <title>从红月开始 (Unknown)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <summary>制作说明 制作说明[作者的话] 从红月开始 黑山老鬼◎著 制作团队：用爱发电 版本v2.0（2022.01.03） 制作说明：本书采用 吟风 精校文本为底本[河洛提供初本]去除广告若干，改正章节和标点错误,图片自己瞎弄。封面由于做的太快作者写错了，但由于字体用了特效，所以懒得再弄，将就看吧！！没有分卷，但是我做了多图，200章一图。适配电子书，请用多看观看。 注：为获得最佳阅读效果，请翻到页面说明，方框显示在同一页[不遮挡图为最佳][排版设置为无][字体可以任意切换]已经设置为半锁字体。 &amp;#160;此书我一直忍着没有看，等完本再说。没想到突然完结了。第一时间排一本，让大家先睹为快。</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/ae5c5a45.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/ae5c5a45.jpg" type="image/jpeg" />
@@ -516,7 +516,7 @@
   <entry>
     <id>urn:sha1:1415d225</id>
     <title>从飞车开始的变身</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-03-21T12:48:21Z</updated>
     <author>
       <name>幻羽紫兰</name>
     </author>
@@ -529,7 +529,7 @@
   <entry>
     <id>urn:sha1:78265210</id>
     <title>他从地狱来 (纯洁滴小龙)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:28Z</updated>
     <author>
       <name>纯洁滴小龙</name>
     </author>
@@ -542,7 +542,7 @@
   <entry>
     <id>urn:sha1:d718b1ec</id>
     <title>仙逆 (耳根)</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>耳根</name>
     </author>
@@ -555,21 +555,21 @@
   <entry>
     <id>urn:sha1:e3e05e8c</id>
     <title>伟大是熬出来的 冯仑</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T10:46:39Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/伟大是熬出来的 冯仑.pdf" type="application/pdf" />
     <dcterms:extent>379638</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:e7746a96</id>
     <title>传习录全译</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-06-04T10:50:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/传习录全译.pdf" type="application/pdf" />
     <dcterms:extent>8372866</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d5065714</id>
     <title>伪装学渣by木瓜黄</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2026-03-22T03:52:22Z</updated>
     <summary>目录 序 第一章 第二章 第三章 第四章 第五章 第六章 第七章 第八章 第九章 第十章 第十一章 第十二章 第十三章 第十四章 第十五章 第十六章 第十七章 第十八章 第十九章 第二十章 第二十一章 第二十二章 第二十三章 第二十四章 第二十五章 第二十六章 第二十七章 第二十八章 第二十九章 第三十章 第三十一章 第三十二章 第三十三章 第三十四章 第三十五章 第三十六章 第三十七章 第三十八章 第三十九章 第四十章 第四十一章 第四十二章 第四十三章 第四十四章 第四十五章 第四十六章 第四十七章 第四十八章 第四十九章 第五十章 第五十一章 第五十二章 第五十三章 第五十四章 第五十五...</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/d5065714.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/d5065714.jpg" type="image/jpeg" />
@@ -577,43 +577,43 @@
     <dcterms:extent>615124</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:8d677268</id>
-    <title>作家榜经典：封神演义（讲述哪吒、姜子牙们的故事！我命由_</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <id>urn:sha1:a1b959fc</id>
+    <title>作家榜经典：封神演义（讲述哪吒、姜子牙们的故事！我命由</title>
+    <updated>2026-06-04T12:17:31Z</updated>
     <author>
       <name>许仲琳</name>
     </author>
     <summary>Cover @page {padding: 0pt; margin:0pt} body { text-align: center; padding:0pt; margin: 0pt; }</summary>
-    <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/8d677268.jpeg" type="image/jpeg" />
-    <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/8d677268.jpeg" type="image/jpeg" />
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/作家榜经典：封神演义（讲述哪吒、姜子牙们的故事！我命由_.epub" type="application/epub+zip" />
+    <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/a1b959fc.jpeg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/a1b959fc.jpeg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/作家榜经典：封神演义（讲述哪吒、姜子牙们的故事！我命由.epub" type="application/epub+zip" />
     <dcterms:extent>3112371</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:60a0e71f</id>
     <title>你是那人间的四月天</title>
-    <updated>2026-06-04T12:16:44Z</updated>
+    <updated>2014-08-13T09:20:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/你是那人间的四月天.txt" type="text/plain" />
     <dcterms:extent>61762</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:965587b3</id>
     <title>修罗场玩家</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/修罗场玩家.txt" type="text/plain" />
     <dcterms:extent>17978390</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c85340d0</id>
     <title>偷香高手加料</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/偷香高手加料.txt" type="text/plain" />
     <dcterms:extent>20169343</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a22e4c0a</id>
     <title>全球高武 (老鹰吃小鸡)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>老鹰吃小鸡</name>
     </author>
@@ -626,14 +626,14 @@
   <entry>
     <id>urn:sha1:a6f469f7</id>
     <title>公正：该如何做是好</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/公正：该如何做是好.pdf" type="application/pdf" />
     <dcterms:extent>13313782</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:01d8dff0</id>
     <title>关于我带着逆天金手指闯荡宝可梦世界这件事还真不是瞎说的</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:53Z</updated>
     <author>
       <name>Baiser</name>
     </author>
@@ -646,14 +646,14 @@
   <entry>
     <id>urn:sha1:6a385bba</id>
     <title>关键对话如何高效能沟通(原书第2版)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/关键对话如何高效能沟通(原书第2版).pdf" type="application/pdf" />
     <dcterms:extent>1776504</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:34511e29</id>
     <title>凡人修仙传第1卷至第11卷大结局全集（阅文白金作家作品） (忘语 忘语)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>忘语</name>
     </author>
@@ -666,14 +666,14 @@
   <entry>
     <id>urn:sha1:9128c257</id>
     <title>凤傲天小说里的黄毛反派也想幸福</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/凤傲天小说里的黄毛反派也想幸福.txt" type="text/plain" />
     <dcterms:extent>3142237</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:cebf7388</id>
     <title>出包王女 御門涼子被強姦</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:01Z</updated>
     <author>
       <name>gp01fbnt</name>
     </author>
@@ -686,7 +686,7 @@
   <entry>
     <id>urn:sha1:4ca9ba27</id>
     <title>刘慈欣_三体典藏版_重庆出版社</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:51Z</updated>
     <author>
       <name>刘慈欣</name>
     </author>
@@ -708,7 +708,7 @@
   <entry>
     <id>urn:sha1:696311a3</id>
     <title>剑来（1-28册）出版精校版（烽火戏诸侯继《雪中悍刀行》后又一巅峰之作！玄幻武侠不得不看的经典</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>烽火戏诸侯</name>
     </author>
@@ -721,7 +721,7 @@
   <entry>
     <id>urn:sha1:a3f2fc87</id>
     <title>十日终焉 (杀虫队队员)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>杀虫队队员</name>
     </author>
@@ -736,7 +736,7 @@
   <entry>
     <id>urn:sha1:b51a3f00</id>
     <title>十日终焉（完结）（无限流） (杀虫队队员)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>杀虫队队员</name>
     </author>
@@ -750,7 +750,7 @@
   <entry>
     <id>urn:sha1:2d05a127</id>
     <title>博弈论 ((美) 约翰·冯·诺依曼 著 刘霞 译)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>约翰·冯·诺依曼</name>
     </author>
@@ -763,21 +763,21 @@
   <entry>
     <id>urn:sha1:2ee1161f</id>
     <title>卡夫卡短篇小说集</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2009-10-26T08:34:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/卡夫卡短篇小说集.txt" type="text/plain" />
     <dcterms:extent>594743</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:70725d3f</id>
     <title>历程</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2011-10-12T15:00:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/历程.txt" type="text/plain" />
     <dcterms:extent>281238</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:60c6e2a7</id>
     <title>古代人的日常生活2：古代也有“996“工作制吗？（古代房价高吗？古人如何学外语？收录职场、百科</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>讲历史的王老师</name>
     </author>
@@ -790,49 +790,49 @@
   <entry>
     <id>urn:sha1:954c9224</id>
     <title>古兰经（中文版）</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:50:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/古兰经（中文版）.pdf" type="application/pdf" />
     <dcterms:extent>9990241</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:10cf63d9</id>
     <title>台北人+白先勇</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/台北人+白先勇.pdf" type="application/pdf" />
     <dcterms:extent>1705020</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8c9e72c7</id>
     <title>哈佛公开课：性格决定命运-移然</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/哈佛公开课：性格决定命运-移然.pdf" type="application/pdf" />
     <dcterms:extent>1574229</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:704ed820</id>
     <title>哈佛公开课：情商决定高度</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:50:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/哈佛公开课：情商决定高度.pdf" type="application/pdf" />
     <dcterms:extent>1788538</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4200aa16</id>
     <title>哈佛凌晨四点半_哈佛大学送给青少年的最好礼物_韦秀英_扫描版</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/哈佛凌晨四点半_哈佛大学送给青少年的最好礼物_韦秀英_扫描版.pdf" type="application/pdf" />
     <dcterms:extent>16225502</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f0d1a509</id>
     <title>哲学德康德 纯粹理性批判 邓晓芒译</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:50:46Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/哲学德康德 纯粹理性批判 邓晓芒译.pdf" type="application/pdf" />
     <dcterms:extent>19866358</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:08e58fb8</id>
     <title>圣墟 (辰东)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>辰东</name>
     </author>
@@ -845,7 +845,7 @@
   <entry>
     <id>urn:sha1:26b5437e</id>
     <title>地煞七十二变 (祭酒)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>祭酒</name>
     </author>
@@ -858,7 +858,7 @@
   <entry>
     <id>urn:sha1:d1c0abd7</id>
     <title>夜的命名术 (会说话的肘子)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <summary>制作说明 [校]&amp;#160;都市异能 夜的命名术（新修版） 会说话的肘子&amp;#160; 著 制作：阡陌居 如若北音 参考：云轩阁主&amp;#160;赤霓&amp;#160;笙歌夜夜 版本： v1.9.1（2023.01.20）Sigil 初版制作完成。 说明：本书文本来自“河洛中文网”，以其为底本，进行封面设计、排版制作而成。 声明：本书仅作个人排版参考学习之用，请勿用于商业用途。如果喜欢本书，请购买正版。任何对本书的修改、加工、传播，请自负法律后果。 注：为获得最佳阅读效果，请在多看设置中将排版设为“原版”（多看2.x版本）或“无”（多看3.x版本以上），背景为设为白色；字体设置为“默认”（使用书中指定字体...</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/d1c0abd7.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/d1c0abd7.jpg" type="image/jpeg" />
@@ -868,14 +868,14 @@
   <entry>
     <id>urn:sha1:c3f181ee</id>
     <title>大奉打更人</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/大奉打更人.txt" type="text/plain" />
     <dcterms:extent>12317704</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c495d02c</id>
     <title>大王饶命 (会说话的肘子)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>会说话的肘子</name>
     </author>
@@ -888,42 +888,42 @@
   <entry>
     <id>urn:sha1:254a0bb0</id>
     <title>天使与魔鬼真正完整版</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2009-09-10T10:01:06Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/天使与魔鬼真正完整版.txt" type="text/plain" />
     <dcterms:extent>674082</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:cb4f120a</id>
     <title>女帝座下第一走狗 作者：十万菜团</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/女帝座下第一走狗 作者：十万菜团.txt" type="text/plain" />
     <dcterms:extent>8125038</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:79bfd783</id>
     <title>如丧_高晓松_9787543067424</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2014-08-13T09:20:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/如丧_高晓松_9787543067424.txt" type="text/plain" />
     <dcterms:extent>83561</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a742cae0</id>
     <title>娱乐春秋三改加料番外整合版_姬叉</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/娱乐春秋三改加料番外整合版_姬叉.txt" type="text/plain" />
     <dcterms:extent>6388600</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a9ad8c47</id>
     <title>娱乐至死</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/娱乐至死.pdf" type="application/pdf" />
     <dcterms:extent>3912065</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c8db8568</id>
     <title>宝可梦修改器 作者骑车的风</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:58Z</updated>
     <author>
       <name>骑车的风</name>
     </author>
@@ -936,14 +936,14 @@
   <entry>
     <id>urn:sha1:878bbfb9</id>
     <title>宿主</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2009-09-10T16:43:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/宿主.txt" type="text/plain" />
     <dcterms:extent>283279</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4e053ed8</id>
     <title>寒门崛起 (Unknown)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <summary>寒门崛起 寒门崛起 第一千四百七十五章 大败倭寇 第一千四百七十四章 反成笑料 第一千四百七十三章 事不可为 第一千四百七十二章 闹鬼吗 第一千四百七十一章 外行笑，内行更笑 第一千四百七十章 文韬武略并雄 第一千四百六十九章 兵部集议 第一千四百六十八章 我有军情紧急，可惜无人信（下） 第一千四百六十七章 我有军情紧急，可惜无人信（中） 第一千四百六十六章 我有军情紧急，可惜无人信（上） 第一千四百六十五章 洞悉其奸 第一千四百六十四章 一念历史 第一章 寒门之子 第二章 气运与中邪 第三章 农家小院是非多 第四章 平安让蛋 第五章 芙蓉帐暖 第六章 智商碾压 第七章 进山 第八章 喂猪都不...</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/4e053ed8.png" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/4e053ed8.png" type="image/jpeg" />
@@ -953,7 +953,7 @@
   <entry>
     <id>urn:sha1:cfaa3235</id>
     <title>寻找找丢的舰娘同人_征服港区舰娘日记_完结</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:23Z</updated>
     <author>
       <name>亚喵</name>
     </author>
@@ -966,7 +966,7 @@
   <entry>
     <id>urn:sha1:c1a1a9c0</id>
     <title>寻找走丢的舰娘ver1.6</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:46:15Z</updated>
     <author>
       <name>海底熔岩</name>
     </author>
@@ -979,7 +979,7 @@
   <entry>
     <id>urn:sha1:1e4a0ca4</id>
     <title>将夜 (猫腻)</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>猫腻</name>
     </author>
@@ -992,28 +992,28 @@
   <entry>
     <id>urn:sha1:1162faa2</id>
     <title>小说课：折磨读者的祕密.(台)许荣哲.文字版</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/小说课：折磨读者的祕密.(台)许荣哲.文字版.pdf" type="application/pdf" />
     <dcterms:extent>1059598</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:2293a566</id>
     <title>小说课：折磨读者的祕密_台许荣哲_文字版学习库</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/小说课：折磨读者的祕密_台许荣哲_文字版学习库.pdf" type="application/pdf" />
     <dcterms:extent>1676488</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:05a45279</id>
     <title>山海经</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-06-04T10:46:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/山海经.pdf" type="application/pdf" />
     <dcterms:extent>5739134</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:faaae6f7</id>
     <title>崩坏你告诉我这难度是崩三_作者CR紫枫</title>
-    <updated>2026-06-04T12:16:45Z</updated>
+    <updated>2026-03-21T12:48:43Z</updated>
     <author>
       <name>CR紫枫</name>
     </author>
@@ -1032,14 +1032,14 @@
   <entry>
     <id>urn:sha1:d500df8d</id>
     <title>巨流河（台版）</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:50:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/巨流河（台版）.pdf" type="application/pdf" />
     <dcterms:extent>3481252</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:9f246967</id>
     <title>庆余年 (猫腻)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:29Z</updated>
     <author>
       <name>猫腻</name>
     </author>
@@ -1052,7 +1052,7 @@
   <entry>
     <id>urn:sha1:50afdcef</id>
     <title>废提转生舰娘 2024-02-02</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:46:36Z</updated>
     <author>
       <name>北筱花诞</name>
     </author>
@@ -1065,56 +1065,56 @@
   <entry>
     <id>urn:sha1:652d4586</id>
     <title>废都可靠版</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-01-28T10:59:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/废都可靠版.txt" type="text/plain" />
     <dcterms:extent>777418</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4fb1352b</id>
     <title>弟子规</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2011-10-12T13:33:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/弟子规.txt" type="text/plain" />
     <dcterms:extent>16799</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:0e41ff6c</id>
     <title>张忠谋自传：1931——1964_张忠谋著_生活·读书·新知三联书店_2001_10853620_图像PDG</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:50:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/张忠谋自传：1931——1964_张忠谋著_生活·读书·新知三联书店_2001_10853620_图像PDG.pdf" type="application/pdf" />
     <dcterms:extent>8491808</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:379e81d3</id>
     <title>张正隆-------------雪白血红</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2013-04-17T18:17:44Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/张正隆-------------雪白血红.txt" type="text/plain" />
     <dcterms:extent>929767</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:1af5f01c</id>
     <title>怪诞心理学.(英)理查德·怀斯曼</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:50:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/怪诞心理学.(英)理查德·怀斯曼.pdf" type="application/pdf" />
     <dcterms:extent>2351901</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:39458a2a</id>
     <title>情商：为什么情商比智商更重要</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:46:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/情商：为什么情商比智商更重要.pdf" type="application/pdf" />
     <dcterms:extent>14811474</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:ff868ec6</id>
     <title>想娶女帝不正常吗？ 作者：爱开小差</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/想娶女帝不正常吗？ 作者：爱开小差.txt" type="text/plain" />
     <dcterms:extent>7279461</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3151ba40</id>
     <title>我修的可能是假仙 (明月地上霜)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>明月地上霜</name>
     </author>
@@ -1127,21 +1127,21 @@
   <entry>
     <id>urn:sha1:13440dc8</id>
     <title>我在日本当轻小说大师全本番外异界补完</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我在日本当轻小说大师全本番外异界补完.txt" type="text/plain" />
     <dcterms:extent>8032237</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:0b66664e</id>
     <title>我在雨中等你</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-04-29T07:45:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我在雨中等你.txt" type="text/plain" />
     <dcterms:extent>45948</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:760f4d85</id>
     <title>我居然重生成为机娘</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:48:18Z</updated>
     <author>
       <name>柳烨華</name>
     </author>
@@ -1154,7 +1154,7 @@
   <entry>
     <id>urn:sha1:cff36459</id>
     <title>我当阴阳先生的那几年 (崔走召)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>崔走召</name>
     </author>
@@ -1167,14 +1167,14 @@
   <entry>
     <id>urn:sha1:0f1669d5</id>
     <title>我有一帮亲戚想当火影</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我有一帮亲戚想当火影.txt" type="text/plain" />
     <dcterms:extent>6698363</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:70330ec0</id>
     <title>我有一座冒险屋 (我会修空调)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <summary>内容简介 内 容 简 介 原名：我有一座恐怖屋 散发异味的灵车停在了门口，天花板传来弹珠碰撞的声音，走廊里有人来回踱步，隔壁房间好像在切割什么东西。 卧室的门锁轻轻颤动，卫生间里水龙头已经拧紧，却还是滴答滴答个不停。 床底下隐隐约约，似乎有个皮球滚来滚去。 一个个沾染水渍的脚印不断在地板上浮现，正慢慢逼近。 凌晨三点，陈歌握着菜刀躲在暖气片旁边，手里的电话刚刚拨通。 “房东！这就是你说的晚上有点热闹？！”</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/70330ec0.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/70330ec0.jpg" type="image/jpeg" />
@@ -1184,14 +1184,14 @@
   <entry>
     <id>urn:sha1:61baebee</id>
     <title>我的二次元不可能这么日常完结</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我的二次元不可能这么日常完结.txt" type="text/plain" />
     <dcterms:extent>4070420</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:fbc8c874</id>
     <title>我的前半生(全本) (爱新觉罗·溥仪)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>爱新觉罗·溥仪</name>
     </author>
@@ -1204,7 +1204,7 @@
   <entry>
     <id>urn:sha1:14ac255d</id>
     <title>我穿越黑執事當死神简体</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:48:14Z</updated>
     <author>
       <name>我是赤瞳</name>
     </author>
@@ -1217,7 +1217,7 @@
   <entry>
     <id>urn:sha1:f78dd3db</id>
     <title>我绝区零空洞恶鬼 作者正经相师</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:45:51Z</updated>
     <author>
       <name>正经相师</name>
     </author>
@@ -1230,7 +1230,7 @@
   <entry>
     <id>urn:sha1:a5f904ef</id>
     <title>执掌神权 (伏醉)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>伏醉</name>
     </author>
@@ -1241,30 +1241,30 @@
     <dcterms:extent>6070187</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:85b102c5</id>
-    <title>扶桑作者严歌苓全(www.baqibook.com)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/扶桑作者严歌苓全(www.baqibook.com).txt" type="text/plain" />
+    <id>urn:sha1:9af0b4af</id>
+    <title>扶桑作者严歌苓全</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/扶桑作者严歌苓全.txt" type="text/plain" />
     <dcterms:extent>249714</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b77334a4</id>
     <title>把妹达人</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2016-07-29T19:01:41Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/把妹达人.txt" type="text/plain" />
     <dcterms:extent>278992</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a328a997</id>
     <title>折纸艺术技法百科.Nick.Robinson.扫描版</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:46:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/折纸艺术技法百科.Nick.Robinson.扫描版.pdf" type="application/pdf" />
     <dcterms:extent>9544949</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4aa9b2a5</id>
     <title>择日飞升 (宅猪)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>宅猪</name>
     </author>
@@ -1278,7 +1278,7 @@
   <entry>
     <id>urn:sha1:5dd7c53d</id>
     <title>数码宝贝驯兽师1984</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:46:00Z</updated>
     <author>
       <name>小中千昭</name>
     </author>
@@ -1291,7 +1291,7 @@
   <entry>
     <id>urn:sha1:22ccebaa</id>
     <title>斗破苍穹 (天蚕土豆)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>天蚕土豆</name>
     </author>
@@ -1308,7 +1308,7 @@
   <entry>
     <id>urn:sha1:f1712f12</id>
     <title>新世紀福音戰士ANIMA - 03</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:47:34Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -1321,7 +1321,7 @@
   <entry>
     <id>urn:sha1:abf8185e</id>
     <title>新世紀福音戰士ANIMA - 04</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:47:47Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -1334,7 +1334,7 @@
   <entry>
     <id>urn:sha1:8f6fbed9</id>
     <title>新世紀福音戰士ANIMA - 05</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:47:54Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -1347,7 +1347,7 @@
   <entry>
     <id>urn:sha1:3f1656ee</id>
     <title>新世纪福音战士 ANIMA 1</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:47:11Z</updated>
     <author>
       <name>khara</name>
     </author>
@@ -1360,7 +1360,7 @@
   <entry>
     <id>urn:sha1:098eb257</id>
     <title>新世纪福音战士ANIMA - 02</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:47:27Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -1373,14 +1373,14 @@
   <entry>
     <id>urn:sha1:c370c4f5</id>
     <title>无政府、国家与乌托邦 何怀宏等译</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:46:40Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/无政府、国家与乌托邦 何怀宏等译.pdf" type="application/pdf" />
     <dcterms:extent>9644075</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:500c5620</id>
     <title>无限恐怖 (zhttty)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>zhttty</name>
     </author>
@@ -1391,98 +1391,98 @@
   <entry>
     <id>urn:sha1:b4ce87c6</id>
     <title>明朝一哥王阳明</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2010-07-20T14:09:56Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝一哥王阳明.txt" type="text/plain" />
     <dcterms:extent>262115</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:29398e3b</id>
     <title>明朝那些事儿·伍</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:36:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·伍.txt" type="text/plain" />
     <dcterms:extent>502712</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:2aa77fd8</id>
     <title>明朝那些事儿·叁</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:37:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·叁.txt" type="text/plain" />
     <dcterms:extent>393700</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3bb14808</id>
     <title>明朝那些事儿·壹</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:36:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·壹.txt" type="text/plain" />
     <dcterms:extent>490603</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:dec6721c</id>
     <title>明朝那些事儿·柒</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:55:04Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·柒.txt" type="text/plain" />
     <dcterms:extent>438517</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:445d96ee</id>
     <title>明朝那些事儿·肆</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:37:06Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·肆.txt" type="text/plain" />
     <dcterms:extent>456938</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d2a7d045</id>
     <title>明朝那些事儿·贰</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:37:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·贰.txt" type="text/plain" />
     <dcterms:extent>474251</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:9664d73a</id>
     <title>明朝那些事儿·陆</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-11-22T05:37:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/明朝那些事儿·陆.txt" type="text/plain" />
     <dcterms:extent>452629</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:74bc02f9</id>
     <title>暮光之城1_暮色</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-07-24T05:11:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/暮光之城1_暮色.txt" type="text/plain" />
     <dcterms:extent>244212</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c1709763</id>
     <title>暮光之城2_新月</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-07-24T05:11:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/暮光之城2_新月.txt" type="text/plain" />
     <dcterms:extent>398846</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f6f896bf</id>
     <title>暮光之城3-月食</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-07-24T05:11:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/暮光之城3-月食.txt" type="text/plain" />
     <dcterms:extent>231958</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:5f2a3682</id>
     <title>暮光之城4·破晓</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-07-24T05:11:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/暮光之城4·破晓.txt" type="text/plain" />
     <dcterms:extent>220724</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:367f076b</id>
     <title>暮光之城5-午夜阳光(暮迷译本1-12)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-07-24T05:15:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/暮光之城5-午夜阳光(暮迷译本1-12).txt" type="text/plain" />
     <dcterms:extent>351040</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c3afc173</id>
     <title>机娘纪元我的机娘都是世界级_作者睡不醒的企鹅</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:48:33Z</updated>
     <author>
       <name>睡不醒的企鹅</name>
     </author>
@@ -1495,21 +1495,21 @@
   <entry>
     <id>urn:sha1:7df4e9d2</id>
     <title>杜拉拉升职记</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2002-04-01T06:16:14Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/杜拉拉升职记.txt" type="text/plain" />
     <dcterms:extent>382375</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:fa4fb513</id>
     <title>杜拉拉升职记2--华年似水</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2009-02-07T01:58:14Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/杜拉拉升职记2--华年似水.txt" type="text/plain" />
     <dcterms:extent>433539</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d9397493</id>
     <title>来自贸易联盟的外界sensei</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:48:37Z</updated>
     <author>
       <name>第二轮朝阳</name>
     </author>
@@ -1522,7 +1522,7 @@
   <entry>
     <id>urn:sha1:e0c5d226</id>
     <title>极速车神 - 磨砚少年</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:48:20Z</updated>
     <author>
       <name>磨砚少年</name>
     </author>
@@ -1535,14 +1535,14 @@
   <entry>
     <id>urn:sha1:6fde9749</id>
     <title>枪炮病菌与钢铁</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:50:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/枪炮病菌与钢铁.pdf" type="application/pdf" />
     <dcterms:extent>15074003</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:9025677f</id>
     <title>没钱修什么仙【1-648章】 (熊狼狗)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>熊狼狗</name>
     </author>
@@ -1555,14 +1555,14 @@
   <entry>
     <id>urn:sha1:b45ca63f</id>
     <title>活着 (余华)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/活着 (余华).pdf" type="application/pdf" />
     <dcterms:extent>6788404</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:faf4dfb8</id>
     <title>深夜书屋 (纯洁滴小龙)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>纯洁滴小龙</name>
     </author>
@@ -1575,7 +1575,7 @@
   <entry>
     <id>urn:sha1:74e402c2</id>
     <title>潘多拉之心同人</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-03-21T12:45:53Z</updated>
     <author>
       <name>偽^白狐</name>
     </author>
@@ -1588,21 +1588,21 @@
   <entry>
     <id>urn:sha1:0d91122a</id>
     <title>灿烂千阳</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2007-11-03T03:41:58Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/灿烂千阳.txt" type="text/plain" />
     <dcterms:extent>222701</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:9ab4d943</id>
     <title>炁體源流（上） (米晶子)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/炁體源流（上） (米晶子).pdf" type="application/pdf" />
     <dcterms:extent>32408186</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:257a74ad</id>
     <title>烂柯棋缘 (真费事)</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>真费事</name>
     </author>
@@ -1615,42 +1615,42 @@
   <entry>
     <id>urn:sha1:91550290</id>
     <title>熟练度刷满，肝成人间剑仙</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/熟练度刷满，肝成人间剑仙.txt" type="text/plain" />
     <dcterms:extent>6339658</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:6c693e58</id>
     <title>王阳明全集</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2008-05-01T15:00:15Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/王阳明全集.txt" type="text/plain" />
     <dcterms:extent>1840443</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f453bb7c</id>
     <title>生命不能承受之轻</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2016-07-29T18:59:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/生命不能承受之轻.txt" type="text/plain" />
     <dcterms:extent>286760</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a99539b7</id>
     <title>白先勇自选集</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2026-06-04T10:50:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/白先勇自选集.pdf" type="application/pdf" />
     <dcterms:extent>1320639</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:03f65da2</id>
     <title>百年孤独</title>
-    <updated>2026-06-04T12:16:46Z</updated>
+    <updated>2014-08-13T09:20:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/百年孤独.txt" type="text/plain" />
     <dcterms:extent>521552</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:14eec832</id>
     <title>盗墓笔记 1-8 全集 (精美插图+目录) (南派三叔)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>南派三叔</name>
     </author>
@@ -1663,7 +1663,7 @@
   <entry>
     <id>urn:sha1:29f3f109</id>
     <title>碧色機娘航線_新型艦娘的養成日誌</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:45:33Z</updated>
     <author>
       <name>瑞瑟格．Auto模式</name>
     </author>
@@ -1676,14 +1676,14 @@
   <entry>
     <id>urn:sha1:dd8aec4b</id>
     <title>社会性动物（第九版）</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2016-07-29T18:58:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/社会性动物（第九版）.txt" type="text/plain" />
     <dcterms:extent>902814</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:44ead802</id>
     <title>神秘复苏</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>佛前笑花</name>
     </author>
@@ -1696,21 +1696,21 @@
   <entry>
     <id>urn:sha1:66182a4f</id>
     <title>神秘复苏</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/神秘复苏.txt" type="text/plain" />
     <dcterms:extent>11602098</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:b494a561</id>
     <title>祸枣集_12831727</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T10:46:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/祸枣集_12831727.pdf" type="application/pdf" />
     <dcterms:extent>16855820</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f8e1eea3</id>
     <title>穿越EVA的世界我竟获得了光 作者石头high</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:01Z</updated>
     <author>
       <name>石头high</name>
     </author>
@@ -1725,7 +1725,7 @@
   <entry>
     <id>urn:sha1:d5c2b7d3</id>
     <title>穿越到崩坏三当舰长</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:44Z</updated>
     <author>
       <name>未知的可能</name>
     </author>
@@ -1738,7 +1738,7 @@
   <entry>
     <id>urn:sha1:337858e5</id>
     <title>第一序列 (会说话的肘子)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>会说话的肘子</name>
     </author>
@@ -1754,14 +1754,14 @@
   <entry>
     <id>urn:sha1:434b183c</id>
     <title>系统很抽象，还好我也是</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/系统很抽象，还好我也是.txt" type="text/plain" />
     <dcterms:extent>7443531</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:2a9a96aa</id>
     <title>绍宋 (榴弹怕水)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>榴弹怕水</name>
     </author>
@@ -1774,7 +1774,7 @@
   <entry>
     <id>urn:sha1:604fd00c</id>
     <title>绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:45:35Z</updated>
     <author>
       <name>PM4949 有问题请私信小号</name>
     </author>
@@ -1787,7 +1787,7 @@
   <entry>
     <id>urn:sha1:ad57d450</id>
     <title>绝区零安比被狼型以骸肏爆的录像带为了研究敌人当然要献出自己的身体了_汉络接约稿</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:16Z</updated>
     <author>
       <name>汉络(接约稿)</name>
     </author>
@@ -1800,7 +1800,7 @@
   <entry>
     <id>urn:sha1:beacff35</id>
     <title>绝区零药师的新艾利都退休生活_作者快乐的雷胖子</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:45:37Z</updated>
     <author>
       <name>快乐的雷胖子</name>
     </author>
@@ -1822,35 +1822,35 @@
   <entry>
     <id>urn:sha1:90d125a8</id>
     <title>综漫：加载词条，兄控妹妹太多了</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/综漫：加载词条，兄控妹妹太多了.txt" type="text/plain" />
     <dcterms:extent>3888951</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:63fa2655</id>
     <title>老子道德经.日本最早抄本.1373年</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T10:50:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/老子道德经.日本最早抄本.1373年.pdf" type="application/pdf" />
     <dcterms:extent>8255296</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:17e1281c</id>
     <title>职场救赎 写给迷茫中的草根族</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T10:46:44Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/职场救赎 写给迷茫中的草根族.pdf" type="application/pdf" />
     <dcterms:extent>18028231</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8582ffea</id>
     <title>肝出个大器晚成！</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/肝出个大器晚成！.txt" type="text/plain" />
     <dcterms:extent>6994112</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3ce23031</id>
     <title>苟在初圣魔门当人材(全本粗校) (鹤守月满池)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:30Z</updated>
     <author>
       <name>鹤守月满池</name>
     </author>
@@ -1863,7 +1863,7 @@
   <entry>
     <id>urn:sha1:4eb47d45</id>
     <title>葵关南 玩乐关系 桌游咖 02 1</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-04-06T01:44:22Z</updated>
     <author>
       <name>葵　せきな</name>
     </author>
@@ -1876,7 +1876,7 @@
   <entry>
     <id>urn:sha1:01238027</id>
     <title>葵关南.桌游咖 01玩乐关系 1</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-04-06T01:44:06Z</updated>
     <author>
       <name>葵关南</name>
     </author>
@@ -1889,7 +1889,7 @@
   <entry>
     <id>urn:sha1:7df77c2e</id>
     <title>蛊真人 (蛊真人)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>蛊真人</name>
     </author>
@@ -1902,14 +1902,14 @@
   <entry>
     <id>urn:sha1:152e93aa</id>
     <title>蜗居完整版小说</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2010-02-02T22:17:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/蜗居完整版小说.txt" type="text/plain" />
     <dcterms:extent>490837</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:db22501f</id>
     <title>被舰娘们不断强奸的指挥官的性奴生活作者绒云</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:46:21Z</updated>
     <author>
       <name>绒云</name>
     </author>
@@ -1922,21 +1922,21 @@
   <entry>
     <id>urn:sha1:0e8c18ab</id>
     <title>许荣哲小说课：折磨读者的祕密-xmdnfy</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T10:50:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/许荣哲小说课：折磨读者的祕密-xmdnfy.pdf" type="application/pdf" />
     <dcterms:extent>1317732</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f837de28</id>
     <title>设计心理学</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T10:50:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/设计心理学.pdf" type="application/pdf" />
     <dcterms:extent>11669295</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:1021e319</id>
     <title>诡秘之主</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>爱潜水的乌贼</name>
     </author>
@@ -1949,14 +1949,14 @@
   <entry>
     <id>urn:sha1:77755675</id>
     <title>诡秘之主</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/诡秘之主.txt" type="text/plain" />
     <dcterms:extent>13770173</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c7c720a4</id>
     <title>说谎心理学（中国版《FBI教你读心术》；“猫鼠游戏”科学揭示谎言的发生机制，高效读懂人心人性。</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>傅小兰</name>
     </author>
@@ -1969,14 +1969,14 @@
   <entry>
     <id>urn:sha1:3136e3eb</id>
     <title>谁在造谣我对她们的孝心变质了</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/谁在造谣我对她们的孝心变质了.txt" type="text/plain" />
     <dcterms:extent>6718496</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7f53eec1</id>
     <title>资本论（套装共3册）</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T08:50:16Z</updated>
     <author>
       <name>中共中央马克思恩格斯列宁斯大林著作编译局</name>
     </author>
@@ -1989,7 +1989,7 @@
   <entry>
     <id>urn:sha1:2042a7e9</id>
     <title>赛马娘之星夜传说</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:34Z</updated>
     <author>
       <name>秋枫千梦</name>
     </author>
@@ -2002,14 +2002,14 @@
   <entry>
     <id>urn:sha1:df4bf502</id>
     <title>起点中文网短文集</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2007-10-03T14:35:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/起点中文网短文集.txt" type="text/plain" />
     <dcterms:extent>222888</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:62a7fbc8</id>
     <title>超凡赛车系统 - 零妖西飒 - 10CHS</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:15Z</updated>
     <author>
       <name>超凡赛车系统 - 零妖西飒 - 10CHS</name>
     </author>
@@ -2020,7 +2020,7 @@
   <entry>
     <id>urn:sha1:4da8525a</id>
     <title>超电磁炮的暗中守护</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:36Z</updated>
     <author>
       <name>狂野车车</name>
     </author>
@@ -2033,7 +2033,7 @@
   <entry>
     <id>urn:sha1:8e9a873a</id>
     <title>超级车灵系统 - 左传江湖 - 393CHS</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:48:27Z</updated>
     <author>
       <name>超级车灵系统 - 左传江湖 - 393CHS</name>
     </author>
@@ -2044,7 +2044,7 @@
   <entry>
     <id>urn:sha1:436b5c5f</id>
     <title>跳大神 (崔走召)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>崔走召</name>
     </author>
@@ -2057,7 +2057,7 @@
   <entry>
     <id>urn:sha1:d457f22c</id>
     <title>身为VTuber的我因为忘记关台而成了传说 合集</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-22T06:20:17Z</updated>
     <author>
       <name>七斗七</name>
     </author>
@@ -2070,7 +2070,7 @@
   <entry>
     <id>urn:sha1:31ce7642</id>
     <title>转生软萌舰娘但本体是虫巢母舰</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-03-21T12:46:24Z</updated>
     <author>
       <name>xinclaer</name>
     </author>
@@ -2083,7 +2083,7 @@
   <entry>
     <id>urn:sha1:00944954</id>
     <title>轮回乐园【1-50卷】 (那一只蚊子)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>那一只蚊子</name>
     </author>
@@ -2096,14 +2096,14 @@
   <entry>
     <id>urn:sha1:80a7a48c</id>
     <title>达芬奇密码</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2007-03-21T02:32:12Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/达芬奇密码.txt" type="text/plain" />
     <dcterms:extent>269954</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:43c76c37</id>
     <title>道诡异仙 (狐尾的笔)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>狐尾的笔</name>
     </author>
@@ -2116,42 +2116,42 @@
   <entry>
     <id>urn:sha1:ce43b105</id>
     <title>都重生了谁考公务员啊 (柳岸花又明)</title>
-    <updated>2026-06-04T12:16:47Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/都重生了谁考公务员啊 (柳岸花又明).txt" type="text/plain" />
     <dcterms:extent>6810737</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d48af6a5</id>
     <title>重说中国近代史</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T10:46:47Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/重说中国近代史.pdf" type="application/pdf" />
     <dcterms:extent>15124223</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:348df508</id>
-    <title>金瓶梅（崇祯本）(书本网www.bookben.com)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/金瓶梅（崇祯本）(书本网www.bookben.com).txt" type="text/plain" />
+    <id>urn:sha1:e6b0f391</id>
+    <title>金瓶梅（崇祯本）</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/金瓶梅（崇祯本）.txt" type="text/plain" />
     <dcterms:extent>1605249</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:f18e8394</id>
-    <title>金瓶梅（张竹坡批评本）(书本网www.bookben.com)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/金瓶梅（张竹坡批评本）(书本网www.bookben.com).txt" type="text/plain" />
+    <id>urn:sha1:b3937c46</id>
+    <title>金瓶梅（张竹坡批评本）</title>
+    <updated>2026-06-04T12:17:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/金瓶梅（张竹坡批评本）.txt" type="text/plain" />
     <dcterms:extent>1951236</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:5e16b08d</id>
     <title>金羊毛</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T10:46:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/金羊毛.pdf" type="application/pdf" />
     <dcterms:extent>4162312</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f4ac0847</id>
     <title>银狐 (孑与2)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>孑与2</name>
     </author>
@@ -2172,14 +2172,14 @@
   <entry>
     <id>urn:sha1:4969b5b0</id>
     <title>镇守府求生指北 作者：海底熔岩</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/镇守府求生指北 作者：海底熔岩.txt" type="text/plain" />
     <dcterms:extent>6831791</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d0252536</id>
     <title>雪中悍刀行1-20（真·精校版） (烽火戏诸侯)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>烽火戏诸侯</name>
     </author>
@@ -2192,7 +2192,7 @@
   <entry>
     <id>urn:sha1:75b61aaa</id>
     <title>青叶灵异事务所 (库奇奇)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>库奇奇</name>
     </author>
@@ -2205,7 +2205,7 @@
   <entry>
     <id>urn:sha1:d4de46b6</id>
     <title>青囊尸衣四部曲合集 (鲁班尺 鲁班尺)</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T11:30:31Z</updated>
     <author>
       <name>鲁班尺</name>
     </author>
@@ -2219,42 +2219,42 @@
   <entry>
     <id>urn:sha1:dffe1e07</id>
     <title>革命之路.(美).理查德·耶茨.清晰扫描版</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T10:46:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/革命之路.(美).理查德·耶茨.清晰扫描版.pdf" type="application/pdf" />
     <dcterms:extent>17286273</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:e3463307</id>
     <title>马恩的日常</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/马恩的日常.txt" type="text/plain" />
     <dcterms:extent>16241091</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c361b014</id>
     <title>骗局 丹布朗最新作品！</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2006-12-02T08:47:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/骗局 丹布朗最新作品！.txt" type="text/plain" />
     <dcterms:extent>232056</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d7188463</id>
     <title>高冷姐姐和鬼畜的我</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/高冷姐姐和鬼畜的我.txt" type="text/plain" />
     <dcterms:extent>6344169</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:2a55d9c9</id>
     <title>黑夜给了我黑色的眼睛</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2009-03-12T13:47:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/黑夜给了我黑色的眼睛.txt" type="text/plain" />
     <dcterms:extent>134849</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7a2acdad</id>
     <title>黑执事.第一卷-第二卷</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-03-21T12:48:10Z</updated>
     <author>
       <name>作者：不详</name>
     </author>
@@ -2265,7 +2265,7 @@
   <entry>
     <id>urn:sha1:3c631175</id>
     <title>黑执事就这样穿成了夏尔</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-03-21T12:48:11Z</updated>
     <author>
       <name>疯狗驾到</name>
     </author>
@@ -2276,22 +2276,22 @@
     <dcterms:extent>193896</dcterms:extent>
   </entry>
   <entry>
-    <id>urn:sha1:c35c5255</id>
-    <title>龙族全套 共七册（龙族Ⅰ-龙族Ⅳ+龙族前传） (江南_</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <id>urn:sha1:4f613af1</id>
+    <title>龙族全套 共七册（龙族Ⅰ-龙族Ⅳ+龙族前传） (江南</title>
+    <updated>2026-06-04T12:17:31Z</updated>
     <author>
       <name>江南</name>
     </author>
     <summary>&lt;div&gt;全七本&lt;div&gt;终版精校 by &lt;i&gt;Halo&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;</summary>
-    <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/c35c5255.jpg" type="image/jpeg" />
-    <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/c35c5255.jpg" type="image/jpeg" />
-    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/龙族全套 共七册（龙族Ⅰ-龙族Ⅳ+龙族前传） (江南_.epub" type="application/epub+zip" />
+    <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/4f613af1.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/4f613af1.jpg" type="image/jpeg" />
+    <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/龙族全套 共七册（龙族Ⅰ-龙族Ⅳ+龙族前传） (江南.epub" type="application/epub+zip" />
     <dcterms:extent>5902095</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:1730cc96</id>
     <title>龙门无间道（全本）</title>
-    <updated>2026-06-04T12:16:48Z</updated>
+    <updated>2026-06-04T08:09:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/龙门无间道（全本）.txt" type="text/plain" />
     <dcterms:extent>10039072</dcterms:extent>
   </entry>
