@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>https://book.hellohk.me/opds.xml</id>
   <title>iimono图书馆</title>
-  <updated>2026-06-04T08:28:34Z</updated>
+  <updated>2026-06-04T08:30:12Z</updated>
   <author>
     <name>iimono图书馆</name>
   </author>
@@ -10,7 +10,7 @@
   <link rel="icon" href="https://cdn.nodeimage.com/i/Sxmax3OdSILx9MUEYWnJr3OXVctgnf6C.webp" type="image/webp" />
   <entry>
     <id>urn:sha1:00f801b6</id>
-    <title>EVA新世纪之旅</title>
+    <title>EVA新世纪之旅 2023-07-14</title>
     <updated>2026-03-21T12:47:59Z</updated>
     <author>
       <name>As 栗子言</name>
@@ -94,7 +94,7 @@
   </entry>
   <entry>
     <id>urn:sha1:fa5d0f92</id>
-    <title>不读书，还想对抗崩坏？</title>
+    <title>不读书还想对抗崩坏 2024-02-01</title>
     <updated>2026-03-21T12:48:38Z</updated>
     <author>
       <name>天上降下位茶姊姊</name>
@@ -114,7 +114,7 @@
   </entry>
   <entry>
     <id>urn:sha1:3a09c603</id>
-    <title>中国文史哲大辞典(套装共6册)(一部中国文化的百科全书，一部中国人案头必备的鸿篇巨制!) (上海辞书出品)</title>
+    <title>中国文史哲大辞典（套装共6册）</title>
     <updated>2026-06-04T08:24:51Z</updated>
     <author>
       <name>郑天挺</name>
@@ -134,7 +134,7 @@
   </entry>
   <entry>
     <id>urn:sha1:82ba8249</id>
-    <title>人类补完计划(《新世纪福音战士EVA》原型，科幻大师考德维纳•史密斯作品集首度公开，集科幻、预言、哲学、心理学于一身的神作。)</title>
+    <title>人类补完计划_新世纪福音战士EVA_原</title>
     <updated>2026-03-21T12:47:56Z</updated>
     <author>
       <name>考德维纳•史密斯</name>
@@ -217,7 +217,7 @@
   </entry>
   <entry>
     <id>urn:sha1:cebf7388</id>
-    <title>出包王女  御門涼子被強姦</title>
+    <title>出包王女 御門涼子被強姦</title>
     <updated>2026-03-21T12:46:01Z</updated>
     <author>
       <name>gp01fbnt</name>
@@ -230,7 +230,7 @@
   </entry>
   <entry>
     <id>urn:sha1:4ca9ba27</id>
-    <title>三体(典藏版)</title>
+    <title>刘慈欣_三体典藏版_重庆出版社</title>
     <updated>2026-03-21T12:46:51Z</updated>
     <author>
       <name>刘慈欣</name>
@@ -284,7 +284,7 @@
   </entry>
   <entry>
     <id>urn:sha1:c8db8568</id>
-    <title>宝可梦修改器</title>
+    <title>宝可梦修改器 作者骑车的风</title>
     <updated>2026-03-21T12:46:58Z</updated>
     <author>
       <name>骑车的风</name>
@@ -297,7 +297,7 @@
   </entry>
   <entry>
     <id>urn:sha1:cfaa3235</id>
-    <title>寻找找丢的舰娘同人 征服港区舰娘日记 （完结）</title>
+    <title>寻找找丢的舰娘同人_征服港区舰娘日记_完结</title>
     <updated>2026-03-21T12:46:23Z</updated>
     <author>
       <name>亚喵</name>
@@ -310,7 +310,7 @@
   </entry>
   <entry>
     <id>urn:sha1:c1a1a9c0</id>
-    <title>寻找走丢的舰娘</title>
+    <title>寻找走丢的舰娘ver1.6</title>
     <updated>2026-03-21T12:46:15Z</updated>
     <author>
       <name>海底熔岩</name>
@@ -323,7 +323,7 @@
   </entry>
   <entry>
     <id>urn:sha1:faaae6f7</id>
-    <title>崩坏：你告诉我这难度是崩三？！</title>
+    <title>崩坏你告诉我这难度是崩三_作者CR紫枫</title>
     <updated>2026-03-21T12:48:43Z</updated>
     <author>
       <name>CR紫枫</name>
@@ -342,7 +342,7 @@
   </entry>
   <entry>
     <id>urn:sha1:50afdcef</id>
-    <title>废提转生舰娘</title>
+    <title>废提转生舰娘 2024-02-02</title>
     <updated>2026-03-21T12:46:36Z</updated>
     <author>
       <name>北筱花诞</name>
@@ -420,7 +420,7 @@
   </entry>
   <entry>
     <id>urn:sha1:f78dd3db</id>
-    <title>我，绝区零，空洞恶鬼</title>
+    <title>我绝区零空洞恶鬼 作者正经相师</title>
     <updated>2026-03-21T12:45:51Z</updated>
     <author>
       <name>正经相师</name>
@@ -446,7 +446,7 @@
   </entry>
   <entry>
     <id>urn:sha1:f1712f12</id>
-    <title>新世紀福音戰士ANIMA 第三卷</title>
+    <title>新世紀福音戰士ANIMA - 03</title>
     <updated>2026-03-21T12:47:34Z</updated>
     <author>
       <name>山下いくと</name>
@@ -459,7 +459,7 @@
   </entry>
   <entry>
     <id>urn:sha1:abf8185e</id>
-    <title>新世紀福音戰士ANIMA 第四卷</title>
+    <title>新世紀福音戰士ANIMA - 04</title>
     <updated>2026-03-21T12:47:47Z</updated>
     <author>
       <name>山下いくと</name>
@@ -472,7 +472,7 @@
   </entry>
   <entry>
     <id>urn:sha1:8f6fbed9</id>
-    <title>新世紀福音戰士ANIMA 第五卷</title>
+    <title>新世紀福音戰士ANIMA - 05</title>
     <updated>2026-03-21T12:47:54Z</updated>
     <author>
       <name>山下いくと</name>
@@ -485,7 +485,7 @@
   </entry>
   <entry>
     <id>urn:sha1:3f1656ee</id>
-    <title>新世纪福音战士ANIMA 1</title>
+    <title>新世纪福音战士 ANIMA 1</title>
     <updated>2026-03-21T12:47:11Z</updated>
     <author>
       <name>khara</name>
@@ -498,7 +498,7 @@
   </entry>
   <entry>
     <id>urn:sha1:098eb257</id>
-    <title>新世纪福音战士ANIMA 第二卷</title>
+    <title>新世纪福音战士ANIMA - 02</title>
     <updated>2026-03-21T12:47:27Z</updated>
     <author>
       <name>山下いくと</name>
@@ -511,7 +511,7 @@
   </entry>
   <entry>
     <id>urn:sha1:c3afc173</id>
-    <title>机娘纪元：我的机娘都是世界级</title>
+    <title>机娘纪元我的机娘都是世界级_作者睡不醒的企鹅</title>
     <updated>2026-03-21T12:48:33Z</updated>
     <author>
       <name>睡不醒的企鹅</name>
@@ -537,7 +537,7 @@
   </entry>
   <entry>
     <id>urn:sha1:e0c5d226</id>
-    <title>极速车神</title>
+    <title>极速车神 - 磨砚少年</title>
     <updated>2026-03-21T12:48:20Z</updated>
     <author>
       <name>磨砚少年</name>
@@ -570,7 +570,7 @@
   </entry>
   <entry>
     <id>urn:sha1:29f3f109</id>
-    <title>碧色～機娘航線～  新型艦娘的養成日誌～～～</title>
+    <title>碧色機娘航線_新型艦娘的養成日誌</title>
     <updated>2026-03-21T12:45:33Z</updated>
     <author>
       <name>瑞瑟格．Auto模式</name>
@@ -590,7 +590,7 @@
   </entry>
   <entry>
     <id>urn:sha1:f8e1eea3</id>
-    <title>穿越EVA的世界，我竟获得了光</title>
+    <title>穿越EVA的世界我竟获得了光 作者石头high</title>
     <updated>2026-03-21T12:48:01Z</updated>
     <author>
       <name>石头high</name>
@@ -625,7 +625,7 @@
   </entry>
   <entry>
     <id>urn:sha1:604fd00c</id>
-    <title>【绝区零NTR：铃X安比】对犹豫不决花心者的双重NTR惩罚！我肉腿臭袜子的妹妹铃，和三无大屁股银发美少女安比的后宫吃醋互坑！互坑到被敌对赤牙帮巨汉双飞睡走恶堕变心，阿黑颜的，给我戴上了双重花心惩罚绿帽</title>
+    <title>绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比</title>
     <updated>2026-03-21T12:45:35Z</updated>
     <author>
       <name>PM4949 有问题请私信小号</name>
@@ -638,7 +638,7 @@
   </entry>
   <entry>
     <id>urn:sha1:ad57d450</id>
-    <title>绝区零，安比被狼型以骸肏爆的录像带！为了研究敌人，当然要献出自己的身体了！</title>
+    <title>绝区零安比被狼型以骸肏爆的录像带为了研究敌人当然要献出自己的身体了_汉络接约稿</title>
     <updated>2026-03-21T12:48:16Z</updated>
     <author>
       <name>汉络(接约稿)</name>
@@ -651,7 +651,7 @@
   </entry>
   <entry>
     <id>urn:sha1:beacff35</id>
-    <title>绝区零：药师的新艾利都退休生活</title>
+    <title>绝区零药师的新艾利都退休生活_作者快乐的雷胖子</title>
     <updated>2026-03-21T12:45:37Z</updated>
     <author>
       <name>快乐的雷胖子</name>
@@ -687,7 +687,7 @@
   </entry>
   <entry>
     <id>urn:sha1:4eb47d45</id>
-    <title>あそびのかんけい２</title>
+    <title>葵关南 玩乐关系 桌游咖 02 1</title>
     <updated>2026-04-06T01:44:22Z</updated>
     <author>
       <name>葵　せきな</name>
@@ -700,7 +700,7 @@
   </entry>
   <entry>
     <id>urn:sha1:01238027</id>
-    <title>玩乐关系 1</title>
+    <title>葵关南.桌游咖 01玩乐关系 1</title>
     <updated>2026-04-06T01:44:06Z</updated>
     <author>
       <name>葵关南</name>
@@ -713,7 +713,7 @@
   </entry>
   <entry>
     <id>urn:sha1:db22501f</id>
-    <title>被舰娘们不断强奸的指挥官的性奴生活</title>
+    <title>被舰娘们不断强奸的指挥官的性奴生活作者绒云</title>
     <updated>2026-03-21T12:46:21Z</updated>
     <author>
       <name>绒云</name>
@@ -801,7 +801,7 @@
   </entry>
   <entry>
     <id>urn:sha1:31ce7642</id>
-    <title>转生软萌舰娘但本体是虫巢母舰！</title>
+    <title>转生软萌舰娘但本体是虫巢母舰</title>
     <updated>2026-03-21T12:46:24Z</updated>
     <author>
       <name>xinclaer</name>
@@ -846,7 +846,7 @@
   </entry>
   <entry>
     <id>urn:sha1:7a2acdad</id>
-    <title>黑执事</title>
+    <title>黑执事.第一卷-第二卷</title>
     <updated>2026-03-21T12:48:10Z</updated>
     <author>
       <name>作者：不详</name>

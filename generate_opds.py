@@ -129,7 +129,7 @@ def scan_books():
 
         if ext == '.epub':
             meta = parse_epub_meta(path)
-            if meta["title"]: title = meta["title"]
+            # 优先用清理后的文件名作为标题，epub内部元数据仅作作者/简介来源
             if meta["author"]: author = meta["author"]
             if meta["desc"]:
                 desc = meta["desc"]
