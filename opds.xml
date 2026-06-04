@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>https://book.hellohk.me/opds.xml</id>
   <title>iimono图书馆</title>
-  <updated>2026-06-04T08:50:17Z</updated>
+  <updated>2026-06-04T08:51:04Z</updated>
   <author>
     <name>iimono图书馆</name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <id>urn:sha1:00f801b6</id>
     <title>EVA新世纪之旅 2023-07-14</title>
-    <updated>2026-03-21T12:47:59Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>As 栗子言</name>
     </author>
@@ -24,7 +24,7 @@
   <entry>
     <id>urn:sha1:7dffa932</id>
     <title>EVA血之序 - 报晓知更鸟 - 425CHS</title>
-    <updated>2026-03-21T12:48:08Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>EVA血之序 - 报晓知更鸟 - 425CHS</name>
     </author>
@@ -35,7 +35,7 @@
   <entry>
     <id>urn:sha1:ab69ab8b</id>
     <title>EVA血之序 - 文厉 - 427CHS</title>
-    <updated>2026-03-21T12:48:05Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>EVA血之序 - 文厉 - 427CHS</name>
     </author>
@@ -46,7 +46,7 @@
   <entry>
     <id>urn:sha1:407adf53</id>
     <title>QQ飞车之车王再现 - 梦原点01 - 95CHS</title>
-    <updated>2026-03-21T12:48:25Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>QQ飞车之车王再现 - 梦原点01 - 95CHS</name>
     </author>
@@ -57,7 +57,7 @@
   <entry>
     <id>urn:sha1:8978d15e</id>
     <title>QQ飞车之边境战争 - 哲懿zy - 9CHS</title>
-    <updated>2026-03-21T12:48:22Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>QQ飞车之边境战争 - 哲懿zy - 9CHS</name>
     </author>
@@ -68,7 +68,7 @@
   <entry>
     <id>urn:sha1:1e548653</id>
     <title>QQ飞车手游之世界车神</title>
-    <updated>2026-03-21T12:48:23Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>小十四95</name>
     </author>
@@ -81,21 +81,21 @@
   <entry>
     <id>urn:sha1:b8a0d562</id>
     <title>下次还填非常简单</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/下次还填非常简单.txt" type="text/plain" />
     <dcterms:extent>10313493</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:1fd7a11c</id>
     <title>不平静的日常</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/不平静的日常.txt" type="text/plain" />
     <dcterms:extent>10949486</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:fa5d0f92</id>
     <title>不读书还想对抗崩坏 2024-02-01</title>
-    <updated>2026-03-21T12:48:38Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>天上降下位茶姊姊</name>
     </author>
@@ -108,14 +108,14 @@
   <entry>
     <id>urn:sha1:b88f237a</id>
     <title>东方仙人录</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/东方仙人录.txt" type="text/plain" />
     <dcterms:extent>5228742</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3a09c603</id>
     <title>中国文史哲大辞典（套装共6册）</title>
-    <updated>2026-06-04T08:24:51Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>郑天挺</name>
     </author>
@@ -128,14 +128,14 @@
   <entry>
     <id>urn:sha1:65058e7b</id>
     <title>人在泰拉，治理奇葩小国</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/人在泰拉，治理奇葩小国.txt" type="text/plain" />
     <dcterms:extent>14290036</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:82ba8249</id>
     <title>人类补完计划_新世纪福音战士EVA_原</title>
-    <updated>2026-03-21T12:47:56Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>考德维纳•史密斯</name>
     </author>
@@ -148,7 +148,7 @@
   <entry>
     <id>urn:sha1:632201c2</id>
     <title>从机娘维修师开始的未来世界生活</title>
-    <updated>2026-03-21T12:48:29Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>叶诗染</name>
     </author>
@@ -161,7 +161,7 @@
   <entry>
     <id>urn:sha1:1415d225</id>
     <title>从飞车开始的变身</title>
-    <updated>2026-03-21T12:48:21Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <author>
       <name>幻羽紫兰</name>
     </author>
@@ -174,7 +174,7 @@
   <entry>
     <id>urn:sha1:d5065714</id>
     <title>伪装学渣by木瓜黄</title>
-    <updated>2026-03-22T03:52:22Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <summary>目录 序 第一章 第二章 第三章 第四章 第五章 第六章 第七章 第八章 第九章 第十章 第十一章 第十二章 第十三章 第十四章 第十五章 第十六章 第十七章 第十八章 第十九章 第二十章 第二十一章 第二十二章 第二十三章 第二十四章 第二十五章 第二十六章 第二十七章 第二十八章 第二十九章 第三十章 第三十一章 第三十二章 第三十三章 第三十四章 第三十五章 第三十六章 第三十七章 第三十八章 第三十九章 第四十章 第四十一章 第四十二章 第四十三章 第四十四章 第四十五章 第四十六章 第四十七章 第四十八章 第四十九章 第五十章 第五十一章 第五十二章 第五十三章 第五十四章 第五十五...</summary>
     <link rel="http://opds-spec.org/image" href="https://book.hellohk.me/covers/d5065714.jpg" type="image/jpeg" />
     <link rel="http://opds-spec.org/image/thumbnail" href="https://book.hellohk.me/covers/d5065714.jpg" type="image/jpeg" />
@@ -184,21 +184,21 @@
   <entry>
     <id>urn:sha1:965587b3</id>
     <title>修罗场玩家</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/修罗场玩家.txt" type="text/plain" />
     <dcterms:extent>17978390</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c85340d0</id>
     <title>偷香高手加料</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/偷香高手加料.txt" type="text/plain" />
     <dcterms:extent>20169343</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:01d8dff0</id>
     <title>关于我带着逆天金手指闯荡宝可梦世界这件事还真不是瞎说的</title>
-    <updated>2026-03-21T12:46:53Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>Baiser</name>
     </author>
@@ -211,14 +211,14 @@
   <entry>
     <id>urn:sha1:9128c257</id>
     <title>凤傲天小说里的黄毛反派也想幸福</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/凤傲天小说里的黄毛反派也想幸福.txt" type="text/plain" />
     <dcterms:extent>3142237</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:cebf7388</id>
     <title>出包王女 御門涼子被強姦</title>
-    <updated>2026-03-21T12:46:01Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>gp01fbnt</name>
     </author>
@@ -231,7 +231,7 @@
   <entry>
     <id>urn:sha1:4ca9ba27</id>
     <title>刘慈欣_三体典藏版_重庆出版社</title>
-    <updated>2026-03-21T12:46:51Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>刘慈欣</name>
     </author>
@@ -253,28 +253,28 @@
   <entry>
     <id>urn:sha1:c3f181ee</id>
     <title>大奉打更人</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/大奉打更人.txt" type="text/plain" />
     <dcterms:extent>12317704</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:cb4f120a</id>
     <title>女帝座下第一走狗 作者：十万菜团</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/女帝座下第一走狗 作者：十万菜团.txt" type="text/plain" />
     <dcterms:extent>8125038</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:a742cae0</id>
     <title>娱乐春秋三改加料番外整合版_姬叉</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/娱乐春秋三改加料番外整合版_姬叉.txt" type="text/plain" />
     <dcterms:extent>6388600</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:c8db8568</id>
     <title>宝可梦修改器 作者骑车的风</title>
-    <updated>2026-03-21T12:46:58Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>骑车的风</name>
     </author>
@@ -287,7 +287,7 @@
   <entry>
     <id>urn:sha1:cfaa3235</id>
     <title>寻找找丢的舰娘同人_征服港区舰娘日记_完结</title>
-    <updated>2026-03-21T12:46:23Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>亚喵</name>
     </author>
@@ -300,7 +300,7 @@
   <entry>
     <id>urn:sha1:c1a1a9c0</id>
     <title>寻找走丢的舰娘ver1.6</title>
-    <updated>2026-03-21T12:46:15Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>海底熔岩</name>
     </author>
@@ -313,7 +313,7 @@
   <entry>
     <id>urn:sha1:faaae6f7</id>
     <title>崩坏你告诉我这难度是崩三_作者CR紫枫</title>
-    <updated>2026-03-21T12:48:43Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>CR紫枫</name>
     </author>
@@ -332,7 +332,7 @@
   <entry>
     <id>urn:sha1:50afdcef</id>
     <title>废提转生舰娘 2024-02-02</title>
-    <updated>2026-03-21T12:46:36Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>北筱花诞</name>
     </author>
@@ -345,21 +345,21 @@
   <entry>
     <id>urn:sha1:ff868ec6</id>
     <title>想娶女帝不正常吗？ 作者：爱开小差</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/想娶女帝不正常吗？ 作者：爱开小差.txt" type="text/plain" />
     <dcterms:extent>7279461</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:13440dc8</id>
     <title>我在日本当轻小说大师全本番外异界补完</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我在日本当轻小说大师全本番外异界补完.txt" type="text/plain" />
     <dcterms:extent>8032237</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:760f4d85</id>
     <title>我居然重生成为机娘</title>
-    <updated>2026-03-21T12:48:18Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>柳烨華</name>
     </author>
@@ -372,21 +372,21 @@
   <entry>
     <id>urn:sha1:0f1669d5</id>
     <title>我有一帮亲戚想当火影</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我有一帮亲戚想当火影.txt" type="text/plain" />
     <dcterms:extent>6698363</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:61baebee</id>
     <title>我的二次元不可能这么日常完结</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/我的二次元不可能这么日常完结.txt" type="text/plain" />
     <dcterms:extent>4070420</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:14ac255d</id>
     <title>我穿越黑執事當死神简体</title>
-    <updated>2026-03-21T12:48:14Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>我是赤瞳</name>
     </author>
@@ -399,7 +399,7 @@
   <entry>
     <id>urn:sha1:f78dd3db</id>
     <title>我绝区零空洞恶鬼 作者正经相师</title>
-    <updated>2026-03-21T12:45:51Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>正经相师</name>
     </author>
@@ -412,7 +412,7 @@
   <entry>
     <id>urn:sha1:5dd7c53d</id>
     <title>数码宝贝驯兽师1984</title>
-    <updated>2026-03-21T12:46:00Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>小中千昭</name>
     </author>
@@ -425,7 +425,7 @@
   <entry>
     <id>urn:sha1:f1712f12</id>
     <title>新世紀福音戰士ANIMA - 03</title>
-    <updated>2026-03-21T12:47:34Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -438,7 +438,7 @@
   <entry>
     <id>urn:sha1:abf8185e</id>
     <title>新世紀福音戰士ANIMA - 04</title>
-    <updated>2026-03-21T12:47:47Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -451,7 +451,7 @@
   <entry>
     <id>urn:sha1:8f6fbed9</id>
     <title>新世紀福音戰士ANIMA - 05</title>
-    <updated>2026-03-21T12:47:54Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -464,7 +464,7 @@
   <entry>
     <id>urn:sha1:3f1656ee</id>
     <title>新世纪福音战士 ANIMA 1</title>
-    <updated>2026-03-21T12:47:11Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>khara</name>
     </author>
@@ -477,7 +477,7 @@
   <entry>
     <id>urn:sha1:098eb257</id>
     <title>新世纪福音战士ANIMA - 02</title>
-    <updated>2026-03-21T12:47:27Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>山下いくと</name>
     </author>
@@ -490,7 +490,7 @@
   <entry>
     <id>urn:sha1:c3afc173</id>
     <title>机娘纪元我的机娘都是世界级_作者睡不醒的企鹅</title>
-    <updated>2026-03-21T12:48:33Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>睡不醒的企鹅</name>
     </author>
@@ -503,7 +503,7 @@
   <entry>
     <id>urn:sha1:d9397493</id>
     <title>来自贸易联盟的外界sensei</title>
-    <updated>2026-03-21T12:48:37Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>第二轮朝阳</name>
     </author>
@@ -516,7 +516,7 @@
   <entry>
     <id>urn:sha1:e0c5d226</id>
     <title>极速车神 - 磨砚少年</title>
-    <updated>2026-03-21T12:48:20Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>磨砚少年</name>
     </author>
@@ -529,7 +529,7 @@
   <entry>
     <id>urn:sha1:74e402c2</id>
     <title>潘多拉之心同人</title>
-    <updated>2026-03-21T12:45:53Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>偽^白狐</name>
     </author>
@@ -542,14 +542,14 @@
   <entry>
     <id>urn:sha1:91550290</id>
     <title>熟练度刷满，肝成人间剑仙</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/熟练度刷满，肝成人间剑仙.txt" type="text/plain" />
     <dcterms:extent>6339658</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:29f3f109</id>
     <title>碧色機娘航線_新型艦娘的養成日誌</title>
-    <updated>2026-03-21T12:45:33Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>瑞瑟格．Auto模式</name>
     </author>
@@ -562,14 +562,14 @@
   <entry>
     <id>urn:sha1:66182a4f</id>
     <title>神秘复苏</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/神秘复苏.txt" type="text/plain" />
     <dcterms:extent>11602098</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:f8e1eea3</id>
     <title>穿越EVA的世界我竟获得了光 作者石头high</title>
-    <updated>2026-03-21T12:48:01Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>石头high</name>
     </author>
@@ -584,7 +584,7 @@
   <entry>
     <id>urn:sha1:d5c2b7d3</id>
     <title>穿越到崩坏三当舰长</title>
-    <updated>2026-03-21T12:48:44Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>未知的可能</name>
     </author>
@@ -597,14 +597,14 @@
   <entry>
     <id>urn:sha1:434b183c</id>
     <title>系统很抽象，还好我也是</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/系统很抽象，还好我也是.txt" type="text/plain" />
     <dcterms:extent>7443531</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:604fd00c</id>
     <title>绝区零NTR铃X安比对犹豫不决花心者的双重NTR惩罚我肉腿臭袜子的妹妹铃和三无大屁股银发美少女安比</title>
-    <updated>2026-03-21T12:45:35Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>PM4949 有问题请私信小号</name>
     </author>
@@ -617,7 +617,7 @@
   <entry>
     <id>urn:sha1:ad57d450</id>
     <title>绝区零安比被狼型以骸肏爆的录像带为了研究敌人当然要献出自己的身体了_汉络接约稿</title>
-    <updated>2026-03-21T12:48:16Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>汉络(接约稿)</name>
     </author>
@@ -630,7 +630,7 @@
   <entry>
     <id>urn:sha1:beacff35</id>
     <title>绝区零药师的新艾利都退休生活_作者快乐的雷胖子</title>
-    <updated>2026-03-21T12:45:37Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>快乐的雷胖子</name>
     </author>
@@ -652,21 +652,21 @@
   <entry>
     <id>urn:sha1:90d125a8</id>
     <title>综漫：加载词条，兄控妹妹太多了</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/综漫：加载词条，兄控妹妹太多了.txt" type="text/plain" />
     <dcterms:extent>3888951</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:8582ffea</id>
     <title>肝出个大器晚成！</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/肝出个大器晚成！.txt" type="text/plain" />
     <dcterms:extent>6994112</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:4eb47d45</id>
     <title>葵关南 玩乐关系 桌游咖 02 1</title>
-    <updated>2026-04-06T01:44:22Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>葵　せきな</name>
     </author>
@@ -679,7 +679,7 @@
   <entry>
     <id>urn:sha1:01238027</id>
     <title>葵关南.桌游咖 01玩乐关系 1</title>
-    <updated>2026-04-06T01:44:06Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>葵关南</name>
     </author>
@@ -692,7 +692,7 @@
   <entry>
     <id>urn:sha1:db22501f</id>
     <title>被舰娘们不断强奸的指挥官的性奴生活作者绒云</title>
-    <updated>2026-03-21T12:46:21Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>绒云</name>
     </author>
@@ -705,21 +705,21 @@
   <entry>
     <id>urn:sha1:77755675</id>
     <title>诡秘之主</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/诡秘之主.txt" type="text/plain" />
     <dcterms:extent>13770173</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:3136e3eb</id>
     <title>谁在造谣我对她们的孝心变质了</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/谁在造谣我对她们的孝心变质了.txt" type="text/plain" />
     <dcterms:extent>6718496</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7f53eec1</id>
     <title>资本论（套装共3册）</title>
-    <updated>2026-06-04T08:50:16Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>中共中央马克思恩格斯列宁斯大林著作编译局</name>
     </author>
@@ -732,7 +732,7 @@
   <entry>
     <id>urn:sha1:2042a7e9</id>
     <title>赛马娘之星夜传说</title>
-    <updated>2026-03-21T12:48:34Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>秋枫千梦</name>
     </author>
@@ -745,7 +745,7 @@
   <entry>
     <id>urn:sha1:62a7fbc8</id>
     <title>超凡赛车系统 - 零妖西飒 - 10CHS</title>
-    <updated>2026-03-21T12:48:15Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>超凡赛车系统 - 零妖西飒 - 10CHS</name>
     </author>
@@ -756,7 +756,7 @@
   <entry>
     <id>urn:sha1:4da8525a</id>
     <title>超电磁炮的暗中守护</title>
-    <updated>2026-03-21T12:48:36Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>狂野车车</name>
     </author>
@@ -769,7 +769,7 @@
   <entry>
     <id>urn:sha1:8e9a873a</id>
     <title>超级车灵系统 - 左传江湖 - 393CHS</title>
-    <updated>2026-03-21T12:48:27Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>超级车灵系统 - 左传江湖 - 393CHS</name>
     </author>
@@ -780,7 +780,7 @@
   <entry>
     <id>urn:sha1:d457f22c</id>
     <title>身为VTuber的我因为忘记关台而成了传说 合集</title>
-    <updated>2026-03-22T06:20:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>七斗七</name>
     </author>
@@ -793,7 +793,7 @@
   <entry>
     <id>urn:sha1:31ce7642</id>
     <title>转生软萌舰娘但本体是虫巢母舰</title>
-    <updated>2026-03-21T12:46:24Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>xinclaer</name>
     </author>
@@ -806,28 +806,28 @@
   <entry>
     <id>urn:sha1:4969b5b0</id>
     <title>镇守府求生指北 作者：海底熔岩</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/镇守府求生指北 作者：海底熔岩.txt" type="text/plain" />
     <dcterms:extent>6831791</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:e3463307</id>
     <title>马恩的日常</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/马恩的日常.txt" type="text/plain" />
     <dcterms:extent>16241091</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:d7188463</id>
     <title>高冷姐姐和鬼畜的我</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/高冷姐姐和鬼畜的我.txt" type="text/plain" />
     <dcterms:extent>6344169</dcterms:extent>
   </entry>
   <entry>
     <id>urn:sha1:7a2acdad</id>
     <title>黑执事.第一卷-第二卷</title>
-    <updated>2026-03-21T12:48:10Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>作者：不详</name>
     </author>
@@ -838,7 +838,7 @@
   <entry>
     <id>urn:sha1:3c631175</id>
     <title>黑执事就这样穿成了夏尔</title>
-    <updated>2026-03-21T12:48:11Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <author>
       <name>疯狗驾到</name>
     </author>
@@ -851,7 +851,7 @@
   <entry>
     <id>urn:sha1:1730cc96</id>
     <title>龙门无间道（全本）</title>
-    <updated>2026-06-04T08:09:17Z</updated>
+    <updated>2026-06-04T08:51:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://book.hellohk.me/data/龙门无间道（全本）.txt" type="text/plain" />
     <dcterms:extent>10039072</dcterms:extent>
   </entry>
